@@ -1,0 +1,3700 @@
+{
+	"Classroom": {
+		"VII A": [
+			"VII A"
+		],
+		"VII B": [
+			"VII B"
+		],
+		"VII C": [
+			"VII C"
+		],
+		"VII D": [
+			"VII D"
+		],
+		"VII E": [
+			"VII E"
+		],
+		"VII F": [
+			"VII F"
+		],
+		"VII G": [
+			"VII G"
+		],
+		"VII H": [
+			"VII H"
+		],
+		"VII I": [
+			"VII I"
+		],
+		"VII J": [
+			"VII J"
+		],
+		"VIII A": [
+			"VIII A"
+		],
+		"VIII B": [
+			"VIII B"
+		],
+		"VIII C": [
+			"VIII C"
+		],
+		"VIII D": [
+			"VIII D"
+		],
+		"VIII E": [
+			"VIII E"
+		],
+		"VIII F": [
+			"VIII F"
+		],
+		"VIII G": [
+			"VIII G"
+		],
+		"VIII H": [
+			"VIII H"
+		],
+		"VIII I": [
+			"VIII I"
+		],
+		"VIII J": [
+			"VIII J"
+		],
+		"IX A": [
+			"IX A"
+		],
+		"IX B": [
+			"IX B"
+		],
+		"IX C": [
+			"IX C"
+		],
+		"IX D": [
+			"IX D"
+		],
+		"IX E": [
+			"IX E"
+		],
+		"IX F": [
+			"IX F"
+		],
+		"IX G": [
+			"IX G"
+		],
+		"IX H": [
+			"IX H"
+		],
+		"IX I": [
+			"IX I"
+		],
+		"IX J": [
+			"IX J"
+		]
+	},
+	"Casovi": [
+		{
+			"Subject": "Pendidikan Agama dan Budi Pekerti",
+			"Type": "L",
+			"Professor": "Sakura Pertiwi",
+			"Group": ["VII A"],
+			"Classroom": "VII A",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Agama dan Budi Pekerti",
+			"Type": "L",
+			"Professor": "Sakura Pertiwi",
+			"Group": ["VII B"],
+			"Classroom": "VII B",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Agama dan Budi Pekerti",
+			"Type": "L",
+			"Professor": "Sakura Pertiwi",
+			"Group": ["VII C"],
+			"Classroom": "VII C",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Agama dan Budi Pekerti",
+			"Type": "L",
+			"Professor": "Sakura Pertiwi",
+			"Group": ["VII D"],
+			"Classroom": "VII D",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Agama dan Budi Pekerti",
+			"Type": "L",
+			"Professor": "Sakura Pertiwi",
+			"Group": ["VII E"],
+			"Classroom": "VII E",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Agama dan Budi Pekerti",
+			"Type": "L",
+			"Professor": "Sakura Pertiwi",
+			"Group": ["VII F"],
+			"Classroom": "VII F",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Agama dan Budi Pekerti",
+			"Type": "L",
+			"Professor": "Sakura Pertiwi",
+			"Group": ["VII G"],
+			"Classroom": "VII G",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Agama dan Budi Pekerti",
+			"Type": "L",
+			"Professor": "Sakura Pertiwi",
+			"Group": ["VII H"],
+			"Classroom": "VII H",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Agama dan Budi Pekerti",
+			"Type": "L",
+			"Professor": "Sakura Pertiwi",
+			"Group": ["VII I"],
+			"Classroom": "VII I",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Agama dan Budi Pekerti",
+			"Type": "L",
+			"Professor": "Sakura Pertiwi",
+			"Group": ["VII J"],
+			"Classroom": "VII J",
+			"Length": "3"
+		},
+		{
+			"Subject": "PKN",
+			"Type": "L",
+			"Professor": "Harjaya Tamba",
+			"Group": ["VII A"],
+			"Classroom": "VII A",
+			"Length": "3"
+		},
+		{
+			"Subject": "PKN",
+			"Type": "L",
+			"Professor": "Harjaya Tamba",
+			"Group": ["VII B"],
+			"Classroom": "VII B",
+			"Length": "3"
+		},
+		{
+			"Subject": "PKN",
+			"Type": "L",
+			"Professor": "Harjaya Tamba",
+			"Group": ["VII C"],
+			"Classroom": "VII C",
+			"Length": "3"
+		},
+		{
+			"Subject": "PKN",
+			"Type": "L",
+			"Professor": "Harjaya Tamba",
+			"Group": ["VII D"],
+			"Classroom": "VII D",
+			"Length": "3"
+		},
+		{
+			"Subject": "PKN",
+			"Type": "L",
+			"Professor": "Harjaya Tamba",
+			"Group": ["VII E"],
+			"Classroom": "VII E",
+			"Length": "3"
+		},
+		{
+			"Subject": "PKN",
+			"Type": "L",
+			"Professor": "Harjaya Tamba",
+			"Group": ["VII F"],
+			"Classroom": "VII F",
+			"Length": "3"
+		},
+		{
+			"Subject": "PKN",
+			"Type": "L",
+			"Professor": "Harjaya Tamba",
+			"Group": ["VII G"],
+			"Classroom": "VII G",
+			"Length": "3"
+		},
+		{
+			"Subject": "PKN",
+			"Type": "L",
+			"Professor": "Harjaya Tamba",
+			"Group": ["VII H"],
+			"Classroom": "VII H",
+			"Length": "3"
+		},
+		{
+			"Subject": "PKN",
+			"Type": "L",
+			"Professor": "Harjaya Tamba",
+			"Group": ["VII I"],
+			"Classroom": "VII I",
+			"Length": "3"
+		},
+		{
+			"Subject": "PKN",
+			"Type": "L",
+			"Professor": "Harjaya Tamba",
+			"Group": ["VII J"],
+			"Classroom": "VII J",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 1",
+			"Type": "L",
+			"Professor": "Utama Wahyudin",
+			"Group": ["VII A"],
+			"Classroom": "VII A",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 1",
+			"Type": "L",
+			"Professor": "Utama Wahyudin",
+			"Group": ["VII B"],
+			"Classroom": "VII B",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 1",
+			"Type": "L",
+			"Professor": "Utama Wahyudin",
+			"Group": ["VII C"],
+			"Classroom": "VII C",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 1",
+			"Type": "L",
+			"Professor": "Utama Wahyudin",
+			"Group": ["VII D"],
+			"Classroom": "VII D",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 1",
+			"Type": "L",
+			"Professor": "Utama Wahyudin",
+			"Group": ["VII E"],
+			"Classroom": "VII E",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 1",
+			"Type": "L",
+			"Professor": "Talia Nuraini",
+			"Group": ["VII F"],
+			"Classroom": "VII F",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 1",
+			"Type": "L",
+			"Professor": "Talia Nuraini",
+			"Group": ["VII G"],
+			"Classroom": "VII G",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 1",
+			"Type": "L",
+			"Professor": "Talia Nuraini",
+			"Group": ["VII H"],
+			"Classroom": "VII H",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 1",
+			"Type": "L",
+			"Professor": "Talia Nuraini",
+			"Group": ["VII I"],
+			"Classroom": "VII I",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 1",
+			"Type": "L",
+			"Professor": "Talia Nuraini",
+			"Group": ["VII J"],
+			"Classroom": "VII J",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 2",
+			"Type": "L",
+			"Professor": "Utama Wahyudin",
+			"Group": ["VII A"],
+			"Classroom": "VII A",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 2",
+			"Type": "L",
+			"Professor": "Utama Wahyudin",
+			"Group": ["VII B"],
+			"Classroom": "VII B",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 2",
+			"Type": "L",
+			"Professor": "Utama Wahyudin",
+			"Group": ["VII C"],
+			"Classroom": "VII C",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 2",
+			"Type": "L",
+			"Professor": "Utama Wahyudin",
+			"Group": ["VII D"],
+			"Classroom": "VII D",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 2",
+			"Type": "L",
+			"Professor": "Utama Wahyudin",
+			"Group": ["VII E"],
+			"Classroom": "VII E",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 2",
+			"Type": "L",
+			"Professor": "Talia Nuraini",
+			"Group": ["VII F"],
+			"Classroom": "VII F",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 2",
+			"Type": "L",
+			"Professor": "Talia Nuraini",
+			"Group": ["VII G"],
+			"Classroom": "VII G",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 2",
+			"Type": "L",
+			"Professor": "Talia Nuraini",
+			"Group": ["VII H"],
+			"Classroom": "VII H",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 2",
+			"Type": "L",
+			"Professor": "Talia Nuraini",
+			"Group": ["VII I"],
+			"Classroom": "VII I",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 2",
+			"Type": "L",
+			"Professor": "Talia Nuraini",
+			"Group": ["VII J"],
+			"Classroom": "VII J",
+			"Length": "3"
+		},
+		{
+			"Subject": "Matematika 1",
+			"Type": "L",
+			"Professor": "Septi Astuti",
+			"Group": ["VII A"],
+			"Classroom": "VII A",
+			"Length": "3"
+		},
+		{
+			"Subject": "Matematika 1",
+			"Type": "L",
+			"Professor": "Septi Astuti",
+			"Group": ["VII B"],
+			"Classroom": "VII B",
+			"Length": "3"
+		},
+		{
+			"Subject": "Matematika 1",
+			"Type": "L",
+			"Professor": "Septi Astuti",
+			"Group": ["VII C"],
+			"Classroom": "VII C",
+			"Length": "3"
+		},
+		{
+			"Subject": "Matematika 1",
+			"Type": "L",
+			"Professor": "Septi Astuti",
+			"Group": ["VII D"],
+			"Classroom": "VII D",
+			"Length": "3"
+		},
+		{
+			"Subject": "Matematika 1",
+			"Type": "L",
+			"Professor": "Septi Astuti",
+			"Group": ["VII E"],
+			"Classroom": "VII E",
+			"Length": "3"
+		},
+		{
+			"Subject": "Matematika 1",
+			"Type": "L",
+			"Professor": "Bakianto Mandala",
+			"Group": ["VII F"],
+			"Classroom": "VII F",
+			"Length": "3"
+		},
+		{
+			"Subject": "Matematika 1",
+			"Type": "L",
+			"Professor": "Bakianto Mandala",
+			"Group": ["VII G"],
+			"Classroom": "VII G",
+			"Length": "3"
+		},
+		{
+			"Subject": "Matematika 1",
+			"Type": "L",
+			"Professor": "Bakianto Mandala",
+			"Group": ["VII H"],
+			"Classroom": "VII H",
+			"Length": "3"
+		},
+		{
+			"Subject": "Matematika 1",
+			"Type": "L",
+			"Professor": "Bakianto Mandala",
+			"Group": ["VII I"],
+			"Classroom": "VII I",
+			"Length": "3"
+		},
+		{
+			"Subject": "Matematika 1",
+			"Type": "L",
+			"Professor": "Bakianto Mandala",
+			"Group": ["VII J"],
+			"Classroom": "VII J",
+			"Length": "3"
+		},
+		{
+			"Subject": "Matematika 2",
+			"Type": "L",
+			"Professor": "Septi Astuti",
+			"Group": ["VII A"],
+			"Classroom": "VII A",
+			"Length": "2"
+		},
+		{
+			"Subject": "Matematika 2",
+			"Type": "L",
+			"Professor": "Septi Astuti",
+			"Group": ["VII B"],
+			"Classroom": "VII B",
+			"Length": "2"
+		},
+		{
+			"Subject": "Matematika 2",
+			"Type": "L",
+			"Professor": "Septi Astuti",
+			"Group": ["VII C"],
+			"Classroom": "VII C",
+			"Length": "2"
+		},
+		{
+			"Subject": "Matematika 2",
+			"Type": "L",
+			"Professor": "Septi Astuti",
+			"Group": ["VII D"],
+			"Classroom": "VII D",
+			"Length": "2"
+		},
+		{
+			"Subject": "Matematika 2",
+			"Type": "L",
+			"Professor": "Septi Astuti",
+			"Group": ["VII E"],
+			"Classroom": "VII E",
+			"Length": "2"
+		},
+		{
+			"Subject": "Matematika 2",
+			"Type": "L",
+			"Professor": "Bakianto Mandala",
+			"Group": ["VII F"],
+			"Classroom": "VII F",
+			"Length": "2"
+		},
+		{
+			"Subject": "Matematika 2",
+			"Type": "L",
+			"Professor": "Bakianto Mandala",
+			"Group": ["VII G"],
+			"Classroom": "VII G",
+			"Length": "2"
+		},
+		{
+			"Subject": "Matematika 2",
+			"Type": "L",
+			"Professor": "Bakianto Mandala",
+			"Group": ["VII H"],
+			"Classroom": "VII H",
+			"Length": "2"
+		},
+		{
+			"Subject": "Matematika 2",
+			"Type": "L",
+			"Professor": "Bakianto Mandala",
+			"Group": ["VII I"],
+			"Classroom": "VII I",
+			"Length": "2"
+		},
+		{
+			"Subject": "Matematika 2",
+			"Type": "L",
+			"Professor": "Bakianto Mandala",
+			"Group": ["VII J"],
+			"Classroom": "VII J",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 1",
+			"Type": "L",
+			"Professor": "Asirwanda Widodo",
+			"Group": ["VII A"],
+			"Classroom": "VII A",
+			"Length": "3"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 1",
+			"Type": "L",
+			"Professor": "Asirwanda Widodo",
+			"Group": ["VII B"],
+			"Classroom": "VII B",
+			"Length": "3"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 1",
+			"Type": "L",
+			"Professor": "Asirwanda Widodo",
+			"Group": ["VII C"],
+			"Classroom": "VII C",
+			"Length": "3"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 1",
+			"Type": "L",
+			"Professor": "Asirwanda Widodo",
+			"Group": ["VII D"],
+			"Classroom": "VII D",
+			"Length": "3"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 1",
+			"Type": "L",
+			"Professor": "Asirwanda Widodo",
+			"Group": ["VII E"],
+			"Classroom": "VII E",
+			"Length": "3"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 1",
+			"Type": "L",
+			"Professor": "Kemba Rajata",
+			"Group": ["VII F"],
+			"Classroom": "VII F",
+			"Length": "3"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 1",
+			"Type": "L",
+			"Professor": "Kemba Rajata",
+			"Group": ["VII G"],
+			"Classroom": "VII G",
+			"Length": "3"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 1",
+			"Type": "L",
+			"Professor": "Kemba Rajata",
+			"Group": ["VII H"],
+			"Classroom": "VII H",
+			"Length": "3"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 1",
+			"Type": "L",
+			"Professor": "Kemba Rajata",
+			"Group": ["VII I"],
+			"Classroom": "VII I",
+			"Length": "3"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 1",
+			"Type": "L",
+			"Professor": "Kemba Rajata",
+			"Group": ["VII J"],
+			"Classroom": "VII J",
+			"Length": "3"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 2",
+			"Type": "L",
+			"Professor": "Asirwanda Widodo",
+			"Group": ["VII A"],
+			"Classroom": "VII A",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 2",
+			"Type": "L",
+			"Professor": "Asirwanda Widodo",
+			"Group": ["VII B"],
+			"Classroom": "VII B",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 2",
+			"Type": "L",
+			"Professor": "Asirwanda Widodo",
+			"Group": ["VII C"],
+			"Classroom": "VII C",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 2",
+			"Type": "L",
+			"Professor": "Asirwanda Widodo",
+			"Group": ["VII D"],
+			"Classroom": "VII D",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 2",
+			"Type": "L",
+			"Professor": "Asirwanda Widodo",
+			"Group": ["VII E"],
+			"Classroom": "VII E",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 2",
+			"Type": "L",
+			"Professor": "Kemba Rajata",
+			"Group": ["VII F"],
+			"Classroom": "VII F",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 2",
+			"Type": "L",
+			"Professor": "Kemba Rajata",
+			"Group": ["VII G"],
+			"Classroom": "VII G",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 2",
+			"Type": "L",
+			"Professor": "Kemba Rajata",
+			"Group": ["VII H"],
+			"Classroom": "VII H",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 2",
+			"Type": "L",
+			"Professor": "Kemba Rajata",
+			"Group": ["VII I"],
+			"Classroom": "VII I",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 2",
+			"Type": "L",
+			"Professor": "Kemba Rajata",
+			"Group": ["VII J"],
+			"Classroom": "VII J",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 1",
+			"Type": "L",
+			"Professor": "Gading Dabukke",
+			"Group": ["VII A"],
+			"Classroom": "VII A",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 1",
+			"Type": "L",
+			"Professor": "Gading Dabukke",
+			"Group": ["VII B"],
+			"Classroom": "VII B",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 1",
+			"Type": "L",
+			"Professor": "Gading Dabukke",
+			"Group": ["VII C"],
+			"Classroom": "VII C",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 1",
+			"Type": "L",
+			"Professor": "Gading Dabukke",
+			"Group": ["VII D"],
+			"Classroom": "VII D",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 1",
+			"Type": "L",
+			"Professor": "Gading Dabukke",
+			"Group": ["VII E"],
+			"Classroom": "VII E",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 1",
+			"Type": "L",
+			"Professor": "Gading Dabukke",
+			"Group": ["VII F"],
+			"Classroom": "VII F",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 1",
+			"Type": "L",
+			"Professor": "Gading Dabukke",
+			"Group": ["VII G"],
+			"Classroom": "VII G",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 1",
+			"Type": "L",
+			"Professor": "Gading Dabukke",
+			"Group": ["VII H"],
+			"Classroom": "VII H",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 1",
+			"Type": "L",
+			"Professor": "Gading Dabukke",
+			"Group": ["VII I"],
+			"Classroom": "VII I",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 1",
+			"Type": "L",
+			"Professor": "Gading Dabukke",
+			"Group": ["VII J"],
+			"Classroom": "VII J",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 2",
+			"Type": "L",
+			"Professor": "Gading Dabukke",
+			"Group": ["VII A"],
+			"Classroom": "VII A",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 2",
+			"Type": "L",
+			"Professor": "Gading Dabukke",
+			"Group": ["VII B"],
+			"Classroom": "VII B",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 2",
+			"Type": "L",
+			"Professor": "Gading Dabukke",
+			"Group": ["VII C"],
+			"Classroom": "VII C",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 2",
+			"Type": "L",
+			"Professor": "Gading Dabukke",
+			"Group": ["VII D"],
+			"Classroom": "VII D",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 2",
+			"Type": "L",
+			"Professor": "Gading Dabukke",
+			"Group": ["VII E"],
+			"Classroom": "VII E",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 2",
+			"Type": "L",
+			"Professor": "Gading Dabukke",
+			"Group": ["VII F"],
+			"Classroom": "VII F",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 2",
+			"Type": "L",
+			"Professor": "Gading Dabukke",
+			"Group": ["VII G"],
+			"Classroom": "VII G",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 2",
+			"Type": "L",
+			"Professor": "Gading Dabukke",
+			"Group": ["VII H"],
+			"Classroom": "VII H",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 2",
+			"Type": "L",
+			"Professor": "Gading Dabukke",
+			"Group": ["VII I"],
+			"Classroom": "VII I",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 2",
+			"Type": "L",
+			"Professor": "Gading Dabukke",
+			"Group": ["VII J"],
+			"Classroom": "VII J",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 1",
+			"Type": "L",
+			"Professor": "Jatmiko Prayoga",
+			"Group": ["VII A"],
+			"Classroom": "VII A",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 1",
+			"Type": "L",
+			"Professor": "Jatmiko Prayoga",
+			"Group": ["VII B"],
+			"Classroom": "VII B",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 1",
+			"Type": "L",
+			"Professor": "Jatmiko Prayoga",
+			"Group": ["VII C"],
+			"Classroom": "VII C",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 1",
+			"Type": "L",
+			"Professor": "Jatmiko Prayoga",
+			"Group": ["VII D"],
+			"Classroom": "VII D",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 1",
+			"Type": "L",
+			"Professor": "Jatmiko Prayoga",
+			"Group": ["VII E"],
+			"Classroom": "VII E",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 1",
+			"Type": "L",
+			"Professor": "Jatmiko Prayoga",
+			"Group": ["VII F"],
+			"Classroom": "VII F",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 1",
+			"Type": "L",
+			"Professor": "Jatmiko Prayoga",
+			"Group": ["VII G"],
+			"Classroom": "VII G",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 1",
+			"Type": "L",
+			"Professor": "Jatmiko Prayoga",
+			"Group": ["VII H"],
+			"Classroom": "VII H",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 1",
+			"Type": "L",
+			"Professor": "Jatmiko Prayoga",
+			"Group": ["VII I"],
+			"Classroom": "VII I",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 1",
+			"Type": "L",
+			"Professor": "Jatmiko Prayoga",
+			"Group": ["VII J"],
+			"Classroom": "VII J",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 2",
+			"Type": "L",
+			"Professor": "Jatmiko Prayoga",
+			"Group": ["VII A"],
+			"Classroom": "VII A",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 2",
+			"Type": "L",
+			"Professor": "Jatmiko Prayoga",
+			"Group": ["VII B"],
+			"Classroom": "VII B",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 2",
+			"Type": "L",
+			"Professor": "Jatmiko Prayoga",
+			"Group": ["VII C"],
+			"Classroom": "VII C",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 2",
+			"Type": "L",
+			"Professor": "Jatmiko Prayoga",
+			"Group": ["VII D"],
+			"Classroom": "VII D",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 2",
+			"Type": "L",
+			"Professor": "Jatmiko Prayoga",
+			"Group": ["VII E"],
+			"Classroom": "VII E",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 2",
+			"Type": "L",
+			"Professor": "Jatmiko Prayoga",
+			"Group": ["VII F"],
+			"Classroom": "VII F",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 2",
+			"Type": "L",
+			"Professor": "Jatmiko Prayoga",
+			"Group": ["VII G"],
+			"Classroom": "VII G",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 2",
+			"Type": "L",
+			"Professor": "Jatmiko Prayoga",
+			"Group": ["VII H"],
+			"Classroom": "VII H",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 2",
+			"Type": "L",
+			"Professor": "Jatmiko Prayoga",
+			"Group": ["VII I"],
+			"Classroom": "VII I",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 2",
+			"Type": "L",
+			"Professor": "Jatmiko Prayoga",
+			"Group": ["VII J"],
+			"Classroom": "VII J",
+			"Length": "2"
+		},
+		{
+			"Subject": "Seni Budaya",
+			"Type": "L",
+			"Professor": "Oman Mandala",
+			"Group": ["VII A"],
+			"Classroom": "VII A",
+			"Length": "3"
+		},
+		{
+			"Subject": "Seni Budaya",
+			"Type": "L",
+			"Professor": "Oman Mandala",
+			"Group": ["VII B"],
+			"Classroom": "VII B",
+			"Length": "3"
+		},
+		{
+			"Subject": "Seni Budaya",
+			"Type": "L",
+			"Professor": "Oman Mandala",
+			"Group": ["VII C"],
+			"Classroom": "VII C",
+			"Length": "3"
+		},
+		{
+			"Subject": "Seni Budaya",
+			"Type": "L",
+			"Professor": "Oman Mandala",
+			"Group": ["VII D"],
+			"Classroom": "VII D",
+			"Length": "3"
+		},
+		{
+			"Subject": "Seni Budaya",
+			"Type": "L",
+			"Professor": "Oman Mandala",
+			"Group": ["VII E"],
+			"Classroom": "VII E",
+			"Length": "3"
+		},
+		{
+			"Subject": "Seni Budaya",
+			"Type": "L",
+			"Professor": "Oman Mandala",
+			"Group": ["VII F"],
+			"Classroom": "VII F",
+			"Length": "3"
+		},
+		{
+			"Subject": "Seni Budaya",
+			"Type": "L",
+			"Professor": "Oman Mandala",
+			"Group": ["VII G"],
+			"Classroom": "VII G",
+			"Length": "3"
+		},
+		{
+			"Subject": "Seni Budaya",
+			"Type": "L",
+			"Professor": "Oman Mandala",
+			"Group": ["VII H"],
+			"Classroom": "VII H",
+			"Length": "3"
+		},
+		{
+			"Subject": "Seni Budaya",
+			"Type": "L",
+			"Professor": "Oman Mandala",
+			"Group": ["VII I"],
+			"Classroom": "VII I",
+			"Length": "3"
+		},
+		{
+			"Subject": "Seni Budaya",
+			"Type": "L",
+			"Professor": "Oman Mandala",
+			"Group": ["VII J"],
+			"Classroom": "VII J",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+			"Type": "L",
+			"Professor": "Dadi Megantara",
+			"Group": ["VII A"],
+			"Classroom": "VII A",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+			"Type": "L",
+			"Professor": "Dadi Megantara",
+			"Group": ["VII B"],
+			"Classroom": "VII B",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+			"Type": "L",
+			"Professor": "Dadi Megantara",
+			"Group": ["VII C"],
+			"Classroom": "VII C",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+			"Type": "L",
+			"Professor": "Dadi Megantara",
+			"Group": ["VII D"],
+			"Classroom": "VII D",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+			"Type": "L",
+			"Professor": "Dadi Megantara",
+			"Group": ["VII E"],
+			"Classroom": "VII E",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+			"Type": "L",
+			"Professor": "Dadi Megantara",
+			"Group": ["VII F"],
+			"Classroom": "VII F",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+			"Type": "L",
+			"Professor": "Dadi Megantara",
+			"Group": ["VII G"],
+			"Classroom": "VII G",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+			"Type": "L",
+			"Professor": "Dadi Megantara",
+			"Group": ["VII H"],
+			"Classroom": "VII H",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+			"Type": "L",
+			"Professor": "Dadi Megantara",
+			"Group": ["VII I"],
+			"Classroom": "VII I",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+			"Type": "L",
+			"Professor": "Dadi Megantara",
+			"Group": ["VII J"],
+			"Classroom": "VII J",
+			"Length": "3"
+		},
+		{
+			"Subject": "Prakarya",
+			"Type": "L",
+			"Professor": "Shakila Novitasari",
+			"Group": ["VII A"],
+			"Classroom": "VII A",
+			"Length": "2"
+		},
+		{
+			"Subject": "Prakarya",
+			"Type": "L",
+			"Professor": "Shakila Novitasari",
+			"Group": ["VII B"],
+			"Classroom": "VII B",
+			"Length": "2"
+		},
+		{
+			"Subject": "Prakarya",
+			"Type": "L",
+			"Professor": "Shakila Novitasari",
+			"Group": ["VII C"],
+			"Classroom": "VII C",
+			"Length": "2"
+		},
+		{
+			"Subject": "Prakarya",
+			"Type": "L",
+			"Professor": "Shakila Novitasari",
+			"Group": ["VII D"],
+			"Classroom": "VII D",
+			"Length": "2"
+		},
+		{
+			"Subject": "Prakarya",
+			"Type": "L",
+			"Professor": "Shakila Novitasari",
+			"Group": ["VII E"],
+			"Classroom": "VII E",
+			"Length": "2"
+		},
+		{
+			"Subject": "Prakarya",
+			"Type": "L",
+			"Professor": "Shakila Novitasari",
+			"Group": ["VII F"],
+			"Classroom": "VII F",
+			"Length": "2"
+		},
+		{
+			"Subject": "Prakarya",
+			"Type": "L",
+			"Professor": "Shakila Novitasari",
+			"Group": ["VII G"],
+			"Classroom": "VII G",
+			"Length": "2"
+		},
+		{
+			"Subject": "Prakarya",
+			"Type": "L",
+			"Professor": "Shakila Novitasari",
+			"Group": ["VII H"],
+			"Classroom": "VII H",
+			"Length": "2"
+		},
+		{
+			"Subject": "Prakarya",
+			"Type": "L",
+			"Professor": "Shakila Novitasari",
+			"Group": ["VII I"],
+			"Classroom": "VII I",
+			"Length": "2"
+		},
+		{
+			"Subject": "Prakarya",
+			"Type": "L",
+			"Professor": "Shakila Novitasari",
+			"Group": ["VII J"],
+			"Classroom": "VII J",
+			"Length": "2"
+		},
+
+
+		{
+			"Subject": "Pendidikan Agama dan Budi Pekerti",
+			"Type": "L",
+			"Professor": "Fathonah Oktaviani",
+			"Group": ["VIII A"],
+			"Classroom": "VIII A",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Agama dan Budi Pekerti",
+			"Type": "L",
+			"Professor": "Fathonah Oktaviani",
+			"Group": ["VIII B"],
+			"Classroom": "VIII B",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Agama dan Budi Pekerti",
+			"Type": "L",
+			"Professor": "Fathonah Oktaviani",
+			"Group": ["VIII C"],
+			"Classroom": "VIII C",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Agama dan Budi Pekerti",
+			"Type": "L",
+			"Professor": "Fathonah Oktaviani",
+			"Group": ["VIII D"],
+			"Classroom": "VIII D",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Agama dan Budi Pekerti",
+			"Type": "L",
+			"Professor": "Fathonah Oktaviani",
+			"Group": ["VIII E"],
+			"Classroom": "VIII E",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Agama dan Budi Pekerti",
+			"Type": "L",
+			"Professor": "Fathonah Oktaviani",
+			"Group": ["VIII F"],
+			"Classroom": "VIII F",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Agama dan Budi Pekerti",
+			"Type": "L",
+			"Professor": "Fathonah Oktaviani",
+			"Group": ["VIII G"],
+			"Classroom": "VIII G",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Agama dan Budi Pekerti",
+			"Type": "L",
+			"Professor": "Fathonah Oktaviani",
+			"Group": ["VIII H"],
+			"Classroom": "VIII H",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Agama dan Budi Pekerti",
+			"Type": "L",
+			"Professor": "Fathonah Oktaviani",
+			"Group": ["VIII I"],
+			"Classroom": "VIII I",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Agama dan Budi Pekerti",
+			"Type": "L",
+			"Professor": "Fathonah Oktaviani",
+			"Group": ["VIII J"],
+			"Classroom": "VIII J",
+			"Length": "3"
+		},
+		{
+			"Subject": "PKN",
+			"Type": "L",
+			"Professor": "Cornelia Pudjiastuti",
+			"Group": ["VIII A"],
+			"Classroom": "VIII A",
+			"Length": "3"
+		},
+		{
+			"Subject": "PKN",
+			"Type": "L",
+			"Professor": "Cornelia Pudjiastuti",
+			"Group": ["VIII B"],
+			"Classroom": "VIII B",
+			"Length": "3"
+		},
+		{
+			"Subject": "PKN",
+			"Type": "L",
+			"Professor": "Cornelia Pudjiastuti",
+			"Group": ["VIII C"],
+			"Classroom": "VIII C",
+			"Length": "3"
+		},
+		{
+			"Subject": "PKN",
+			"Type": "L",
+			"Professor": "Cornelia Pudjiastuti",
+			"Group": ["VIII D"],
+			"Classroom": "VIII D",
+			"Length": "3"
+		},
+		{
+			"Subject": "PKN",
+			"Type": "L",
+			"Professor": "Cornelia Pudjiastuti",
+			"Group": ["VIII E"],
+			"Classroom": "VIII E",
+			"Length": "3"
+		},
+		{
+			"Subject": "PKN",
+			"Type": "L",
+			"Professor": "Cornelia Pudjiastuti",
+			"Group": ["VIII F"],
+			"Classroom": "VIII F",
+			"Length": "3"
+		},
+		{
+			"Subject": "PKN",
+			"Type": "L",
+			"Professor": "Cornelia Pudjiastuti",
+			"Group": ["VIII G"],
+			"Classroom": "VIII G",
+			"Length": "3"
+		},
+		{
+			"Subject": "PKN",
+			"Type": "L",
+			"Professor": "Cornelia Pudjiastuti",
+			"Group": ["VIII H"],
+			"Classroom": "VIII H",
+			"Length": "3"
+		},
+		{
+			"Subject": "PKN",
+			"Type": "L",
+			"Professor": "Cornelia Pudjiastuti",
+			"Group": ["VIII I"],
+			"Classroom": "VIII I",
+			"Length": "3"
+		},
+		{
+			"Subject": "PKN",
+			"Type": "L",
+			"Professor": "Cornelia Pudjiastuti",
+			"Group": ["VIII J"],
+			"Classroom": "VIII J",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 1",
+			"Type": "L",
+			"Professor": "Talia Wijayanti",
+			"Group": ["VIII A"],
+			"Classroom": "VIII A",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 1",
+			"Type": "L",
+			"Professor": "Talia Wijayanti",
+			"Group": ["VIII B"],
+			"Classroom": "VIII B",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 1",
+			"Type": "L",
+			"Professor": "Talia Wijayanti",
+			"Group": ["VIII C"],
+			"Classroom": "VIII C",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 1",
+			"Type": "L",
+			"Professor": "Talia Wijayanti",
+			"Group": ["VIII D"],
+			"Classroom": "VIII D",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 1",
+			"Type": "L",
+			"Professor": "Talia Wijayanti",
+			"Group": ["VIII E"],
+			"Classroom": "VIII E",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 1",
+			"Type": "L",
+			"Professor": "Purwadi Sirait",
+			"Group": ["VIII F"],
+			"Classroom": "VIII F",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 1",
+			"Type": "L",
+			"Professor": "Purwadi Sirait",
+			"Group": ["VIII G"],
+			"Classroom": "VIII G",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 1",
+			"Type": "L",
+			"Professor": "Purwadi Sirait",
+			"Group": ["VIII H"],
+			"Classroom": "VIII H",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 1",
+			"Type": "L",
+			"Professor": "Purwadi Sirait",
+			"Group": ["VIII I"],
+			"Classroom": "VIII I",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 1",
+			"Type": "L",
+			"Professor": "Purwadi Sirait",
+			"Group": ["VIII J"],
+			"Classroom": "VIII J",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 2",
+			"Type": "L",
+			"Professor": "Talia Wijayanti",
+			"Group": ["VIII A"],
+			"Classroom": "VIII A",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 2",
+			"Type": "L",
+			"Professor": "Talia Wijayanti",
+			"Group": ["VIII B"],
+			"Classroom": "VIII B",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 2",
+			"Type": "L",
+			"Professor": "Talia Wijayanti",
+			"Group": ["VIII C"],
+			"Classroom": "VIII C",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 2",
+			"Type": "L",
+			"Professor": "Talia Wijayanti",
+			"Group": ["VIII D"],
+			"Classroom": "VIII D",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 2",
+			"Type": "L",
+			"Professor": "Talia Wijayanti",
+			"Group": ["VIII E"],
+			"Classroom": "VIII E",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 2",
+			"Type": "L",
+			"Professor": "Purwadi Sirait",
+			"Group": ["VIII F"],
+			"Classroom": "VIII F",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 2",
+			"Type": "L",
+			"Professor": "Purwadi Sirait",
+			"Group": ["VIII G"],
+			"Classroom": "VIII G",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 2",
+			"Type": "L",
+			"Professor": "Purwadi Sirait",
+			"Group": ["VIII H"],
+			"Classroom": "VIII H",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 2",
+			"Type": "L",
+			"Professor": "Purwadi Sirait",
+			"Group": ["VIII I"],
+			"Classroom": "VIII I",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 2",
+			"Type": "L",
+			"Professor": "Purwadi Sirait",
+			"Group": ["VIII J"],
+			"Classroom": "VIII J",
+			"Length": "3"
+		},
+		{
+			"Subject": "Matematika 1",
+			"Type": "L",
+			"Professor": "Ella Rahayu",
+			"Group": ["VIII A"],
+			"Classroom": "VIII A",
+			"Length": "3"
+		},
+		{
+			"Subject": "Matematika 1",
+			"Type": "L",
+			"Professor": "Ella Rahayu",
+			"Group": ["VIII B"],
+			"Classroom": "VIII B",
+			"Length": "3"
+		},
+		{
+			"Subject": "Matematika 1",
+			"Type": "L",
+			"Professor": "Ella Rahayu",
+			"Group": ["VIII C"],
+			"Classroom": "VIII C",
+			"Length": "3"
+		},
+		{
+			"Subject": "Matematika 1",
+			"Type": "L",
+			"Professor": "Ella Rahayu",
+			"Group": ["VIII D"],
+			"Classroom": "VIII D",
+			"Length": "3"
+		},
+		{
+			"Subject": "Matematika 1",
+			"Type": "L",
+			"Professor": "Ella Rahayu",
+			"Group": ["VIII E"],
+			"Classroom": "VIII E",
+			"Length": "3"
+		},
+		{
+			"Subject": "Matematika 1",
+			"Type": "L",
+			"Professor": "Jane Handayani",
+			"Group": ["VIII F"],
+			"Classroom": "VIII F",
+			"Length": "3"
+		},
+		{
+			"Subject": "Matematika 1",
+			"Type": "L",
+			"Professor": "Jane Handayani",
+			"Group": ["VIII G"],
+			"Classroom": "VIII G",
+			"Length": "3"
+		},
+		{
+			"Subject": "Matematika 1",
+			"Type": "L",
+			"Professor": "Jane Handayani",
+			"Group": ["VIII H"],
+			"Classroom": "VIII H",
+			"Length": "3"
+		},
+		{
+			"Subject": "Matematika 1",
+			"Type": "L",
+			"Professor": "Jane Handayani",
+			"Group": ["VIII I"],
+			"Classroom": "VIII I",
+			"Length": "3"
+		},
+		{
+			"Subject": "Matematika 1",
+			"Type": "L",
+			"Professor": "Jane Handayani",
+			"Group": ["VIII J"],
+			"Classroom": "VIII J",
+			"Length": "3"
+		},
+		{
+			"Subject": "Matematika 2",
+			"Type": "L",
+			"Professor": "Ella Rahayu",
+			"Group": ["VIII A"],
+			"Classroom": "VIII A",
+			"Length": "2"
+		},
+		{
+			"Subject": "Matematika 2",
+			"Type": "L",
+			"Professor": "Ella Rahayu",
+			"Group": ["VIII B"],
+			"Classroom": "VIII B",
+			"Length": "2"
+		},
+		{
+			"Subject": "Matematika 2",
+			"Type": "L",
+			"Professor": "Ella Rahayu",
+			"Group": ["VIII C"],
+			"Classroom": "VIII C",
+			"Length": "2"
+		},
+		{
+			"Subject": "Matematika 2",
+			"Type": "L",
+			"Professor": "Ella Rahayu",
+			"Group": ["VIII D"],
+			"Classroom": "VIII D",
+			"Length": "2"
+		},
+		{
+			"Subject": "Matematika 2",
+			"Type": "L",
+			"Professor": "Ella Rahayu",
+			"Group": ["VIII E"],
+			"Classroom": "VIII E",
+			"Length": "2"
+		},
+		{
+			"Subject": "Matematika 2",
+			"Type": "L",
+			"Professor": "Jane Handayani",
+			"Group": ["VIII F"],
+			"Classroom": "VIII F",
+			"Length": "2"
+		},
+		{
+			"Subject": "Matematika 2",
+			"Type": "L",
+			"Professor": "Jane Handayani",
+			"Group": ["VIII G"],
+			"Classroom": "VIII G",
+			"Length": "2"
+		},
+		{
+			"Subject": "Matematika 2",
+			"Type": "L",
+			"Professor": "Jane Handayani",
+			"Group": ["VIII H"],
+			"Classroom": "VIII H",
+			"Length": "2"
+		},
+		{
+			"Subject": "Matematika 2",
+			"Type": "L",
+			"Professor": "Jane Handayani",
+			"Group": ["VIII I"],
+			"Classroom": "VIII I",
+			"Length": "2"
+		},
+		{
+			"Subject": "Matematika 2",
+			"Type": "L",
+			"Professor": "Jane Handayani",
+			"Group": ["VIII J"],
+			"Classroom": "VIII J",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 1",
+			"Type": "L",
+			"Professor": "Candrakanta Tampubolon",
+			"Group": ["VIII A"],
+			"Classroom": "VIII A",
+			"Length": "3"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 1",
+			"Type": "L",
+			"Professor": "Candrakanta Tampubolon",
+			"Group": ["VIII B"],
+			"Classroom": "VIII B",
+			"Length": "3"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 1",
+			"Type": "L",
+			"Professor": "Candrakanta Tampubolon",
+			"Group": ["VIII C"],
+			"Classroom": "VIII C",
+			"Length": "3"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 1",
+			"Type": "L",
+			"Professor": "Candrakanta Tampubolon",
+			"Group": ["VIII D"],
+			"Classroom": "VIII D",
+			"Length": "3"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 1",
+			"Type": "L",
+			"Professor": "Candrakanta Tampubolon",
+			"Group": ["VIII E"],
+			"Classroom": "VIII E",
+			"Length": "3"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 1",
+			"Type": "L",
+			"Professor": "Vanya Pratiwi",
+			"Group": ["VIII F"],
+			"Classroom": "VIII F",
+			"Length": "3"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 1",
+			"Type": "L",
+			"Professor": "Vanya Pratiwi",
+			"Group": ["VIII G"],
+			"Classroom": "VIII G",
+			"Length": "3"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 1",
+			"Type": "L",
+			"Professor": "Vanya Pratiwi",
+			"Group": ["VIII H"],
+			"Classroom": "VIII H",
+			"Length": "3"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 1",
+			"Type": "L",
+			"Professor": "Vanya Pratiwi",
+			"Group": ["VIII I"],
+			"Classroom": "VIII I",
+			"Length": "3"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 1",
+			"Type": "L",
+			"Professor": "Vanya Pratiwi",
+			"Group": ["VIII J"],
+			"Classroom": "VIII J",
+			"Length": "3"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 2",
+			"Type": "L",
+			"Professor": "Candrakanta Tampubolon",
+			"Group": ["VIII A"],
+			"Classroom": "VIII A",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 2",
+			"Type": "L",
+			"Professor": "Candrakanta Tampubolon",
+			"Group": ["VIII B"],
+			"Classroom": "VIII B",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 2",
+			"Type": "L",
+			"Professor": "Candrakanta Tampubolon",
+			"Group": ["VIII C"],
+			"Classroom": "VIII C",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 2",
+			"Type": "L",
+			"Professor": "Candrakanta Tampubolon",
+			"Group": ["VIII D"],
+			"Classroom": "VIII D",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 2",
+			"Type": "L",
+			"Professor": "Candrakanta Tampubolon",
+			"Group": ["VIII E"],
+			"Classroom": "VIII E",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 2",
+			"Type": "L",
+			"Professor": "Vanya Pratiwi",
+			"Group": ["VIII F"],
+			"Classroom": "VIII F",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 2",
+			"Type": "L",
+			"Professor": "Vanya Pratiwi",
+			"Group": ["VIII G"],
+			"Classroom": "VIII G",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 2",
+			"Type": "L",
+			"Professor": "Vanya Pratiwi",
+			"Group": ["VIII H"],
+			"Classroom": "VIII H",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 2",
+			"Type": "L",
+			"Professor": "Vanya Pratiwi",
+			"Group": ["VIII I"],
+			"Classroom": "VIII I",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 2",
+			"Type": "L",
+			"Professor": "Vanya Pratiwi",
+			"Group": ["VIII J"],
+			"Classroom": "VIII J",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 1",
+			"Type": "L",
+			"Professor": "Azalea Riyanti",
+			"Group": ["VIII A"],
+			"Classroom": "VIII A",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 1",
+			"Type": "L",
+			"Professor": "Azalea Riyanti",
+			"Group": ["VIII B"],
+			"Classroom": "VIII B",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 1",
+			"Type": "L",
+			"Professor": "Azalea Riyanti",
+			"Group": ["VIII C"],
+			"Classroom": "VIII C",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 1",
+			"Type": "L",
+			"Professor": "Azalea Riyanti",
+			"Group": ["VIII D"],
+			"Classroom": "VIII D",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 1",
+			"Type": "L",
+			"Professor": "Azalea Riyanti",
+			"Group": ["VIII E"],
+			"Classroom": "VIII E",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 1",
+			"Type": "L",
+			"Professor": "Azalea Riyanti",
+			"Group": ["VIII F"],
+			"Classroom": "VIII F",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 1",
+			"Type": "L",
+			"Professor": "Azalea Riyanti",
+			"Group": ["VIII G"],
+			"Classroom": "VIII G",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 1",
+			"Type": "L",
+			"Professor": "Azalea Riyanti",
+			"Group": ["VIII H"],
+			"Classroom": "VIII H",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 1",
+			"Type": "L",
+			"Professor": "Azalea Riyanti",
+			"Group": ["VIII I"],
+			"Classroom": "VIII I",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 1",
+			"Type": "L",
+			"Professor": "Azalea Riyanti",
+			"Group": ["VIII J"],
+			"Classroom": "VIII J",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 2",
+			"Type": "L",
+			"Professor": "Azalea Riyanti",
+			"Group": ["VIII A"],
+			"Classroom": "VIII A",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 2",
+			"Type": "L",
+			"Professor": "Azalea Riyanti",
+			"Group": ["VIII B"],
+			"Classroom": "VIII B",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 2",
+			"Type": "L",
+			"Professor": "Azalea Riyanti",
+			"Group": ["VIII C"],
+			"Classroom": "VIII C",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 2",
+			"Type": "L",
+			"Professor": "Azalea Riyanti",
+			"Group": ["VIII D"],
+			"Classroom": "VIII D",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 2",
+			"Type": "L",
+			"Professor": "Azalea Riyanti",
+			"Group": ["VIII E"],
+			"Classroom": "VIII E",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 2",
+			"Type": "L",
+			"Professor": "Azalea Riyanti",
+			"Group": ["VIII F"],
+			"Classroom": "VIII F",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 2",
+			"Type": "L",
+			"Professor": "Azalea Riyanti",
+			"Group": ["VIII G"],
+			"Classroom": "VIII G",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 2",
+			"Type": "L",
+			"Professor": "Azalea Riyanti",
+			"Group": ["VIII H"],
+			"Classroom": "VIII H",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 2",
+			"Type": "L",
+			"Professor": "Azalea Riyanti",
+			"Group": ["VIII I"],
+			"Classroom": "VIII I",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 2",
+			"Type": "L",
+			"Professor": "Azalea Riyanti",
+			"Group": ["VIII J"],
+			"Classroom": "VIII J",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 1",
+			"Type": "L",
+			"Professor": "Warta Sitompul",
+			"Group": ["VIII A"],
+			"Classroom": "VIII A",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 1",
+			"Type": "L",
+			"Professor": "Warta Sitompul",
+			"Group": ["VIII B"],
+			"Classroom": "VIII B",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 1",
+			"Type": "L",
+			"Professor": "Warta Sitompul",
+			"Group": ["VIII C"],
+			"Classroom": "VIII C",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 1",
+			"Type": "L",
+			"Professor": "Warta Sitompul",
+			"Group": ["VIII D"],
+			"Classroom": "VIII D",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 1",
+			"Type": "L",
+			"Professor": "Warta Sitompul",
+			"Group": ["VIII E"],
+			"Classroom": "VIII E",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 1",
+			"Type": "L",
+			"Professor": "Warta Sitompul",
+			"Group": ["VIII F"],
+			"Classroom": "VIII F",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 1",
+			"Type": "L",
+			"Professor": "Warta Sitompul",
+			"Group": ["VIII G"],
+			"Classroom": "VIII G",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 1",
+			"Type": "L",
+			"Professor": "Warta Sitompul",
+			"Group": ["VIII H"],
+			"Classroom": "VIII H",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 1",
+			"Type": "L",
+			"Professor": "Warta Sitompul",
+			"Group": ["VIII I"],
+			"Classroom": "VIII I",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 1",
+			"Type": "L",
+			"Professor": "Warta Sitompul",
+			"Group": ["VIII J"],
+			"Classroom": "VIII J",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 2",
+			"Type": "L",
+			"Professor": "Warta Sitompul",
+			"Group": ["VIII A"],
+			"Classroom": "VIII A",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 2",
+			"Type": "L",
+			"Professor": "Warta Sitompul",
+			"Group": ["VIII B"],
+			"Classroom": "VIII B",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 2",
+			"Type": "L",
+			"Professor": "Warta Sitompul",
+			"Group": ["VIII C"],
+			"Classroom": "VIII C",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 2",
+			"Type": "L",
+			"Professor": "Warta Sitompul",
+			"Group": ["VIII D"],
+			"Classroom": "VIII D",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 2",
+			"Type": "L",
+			"Professor": "Warta Sitompul",
+			"Group": ["VIII E"],
+			"Classroom": "VIII E",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 2",
+			"Type": "L",
+			"Professor": "Warta Sitompul",
+			"Group": ["VIII F"],
+			"Classroom": "VIII F",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 2",
+			"Type": "L",
+			"Professor": "Warta Sitompul",
+			"Group": ["VIII G"],
+			"Classroom": "VIII G",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 2",
+			"Type": "L",
+			"Professor": "Warta Sitompul",
+			"Group": ["VIII H"],
+			"Classroom": "VIII H",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 2",
+			"Type": "L",
+			"Professor": "Warta Sitompul",
+			"Group": ["VIII I"],
+			"Classroom": "VIII I",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 2",
+			"Type": "L",
+			"Professor": "Warta Sitompul",
+			"Group": ["VIII J"],
+			"Classroom": "VIII J",
+			"Length": "2"
+		},
+		{
+			"Subject": "Seni Budaya",
+			"Type": "L",
+			"Professor": "Jamalia Nasyiah",
+			"Group": ["VIII A"],
+			"Classroom": "VIII A",
+			"Length": "3"
+		},
+		{
+			"Subject": "Seni Budaya",
+			"Type": "L",
+			"Professor": "Jamalia Nasyiah",
+			"Group": ["VIII B"],
+			"Classroom": "VIII B",
+			"Length": "3"
+		},
+		{
+			"Subject": "Seni Budaya",
+			"Type": "L",
+			"Professor": "Jamalia Nasyiah",
+			"Group": ["VIII C"],
+			"Classroom": "VIII C",
+			"Length": "3"
+		},
+		{
+			"Subject": "Seni Budaya",
+			"Type": "L",
+			"Professor": "Jamalia Nasyiah",
+			"Group": ["VIII D"],
+			"Classroom": "VIII D",
+			"Length": "3"
+		},
+		{
+			"Subject": "Seni Budaya",
+			"Type": "L",
+			"Professor": "Jamalia Nasyiah",
+			"Group": ["VIII E"],
+			"Classroom": "VIII E",
+			"Length": "3"
+		},
+		{
+			"Subject": "Seni Budaya",
+			"Type": "L",
+			"Professor": "Jamalia Nasyiah",
+			"Group": ["VIII F"],
+			"Classroom": "VIII F",
+			"Length": "3"
+		},
+		{
+			"Subject": "Seni Budaya",
+			"Type": "L",
+			"Professor": "Jamalia Nasyiah",
+			"Group": ["VIII G"],
+			"Classroom": "VIII G",
+			"Length": "3"
+		},
+		{
+			"Subject": "Seni Budaya",
+			"Type": "L",
+			"Professor": "Jamalia Nasyiah",
+			"Group": ["VIII H"],
+			"Classroom": "VIII H",
+			"Length": "3"
+		},
+		{
+			"Subject": "Seni Budaya",
+			"Type": "L",
+			"Professor": "Jamalia Nasyiah",
+			"Group": ["VIII I"],
+			"Classroom": "VIII I",
+			"Length": "3"
+		},
+		{
+			"Subject": "Seni Budaya",
+			"Type": "L",
+			"Professor": "Jamalia Nasyiah",
+			"Group": ["VIII J"],
+			"Classroom": "VIII J",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+			"Type": "L",
+			"Professor": "Tina Aryani",
+			"Group": ["VIII A"],
+			"Classroom": "VIII A",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+			"Type": "L",
+			"Professor": "Tina Aryani",
+			"Group": ["VIII B"],
+			"Classroom": "VIII B",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+			"Type": "L",
+			"Professor": "Tina Aryani",
+			"Group": ["VIII C"],
+			"Classroom": "VIII C",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+			"Type": "L",
+			"Professor": "Tina Aryani",
+			"Group": ["VIII D"],
+			"Classroom": "VIII D",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+			"Type": "L",
+			"Professor": "Tina Aryani",
+			"Group": ["VIII E"],
+			"Classroom": "VIII E",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+			"Type": "L",
+			"Professor": "Tina Aryani",
+			"Group": ["VIII F"],
+			"Classroom": "VIII F",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+			"Type": "L",
+			"Professor": "Tina Aryani",
+			"Group": ["VIII G"],
+			"Classroom": "VIII G",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+			"Type": "L",
+			"Professor": "Tina Aryani",
+			"Group": ["VIII H"],
+			"Classroom": "VIII H",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+			"Type": "L",
+			"Professor": "Tina Aryani",
+			"Group": ["VIII I"],
+			"Classroom": "VIII I",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+			"Type": "L",
+			"Professor": "Tina Aryani",
+			"Group": ["VIII J"],
+			"Classroom": "VIII J",
+			"Length": "3"
+		},
+		{
+			"Subject": "Prakarya",
+			"Type": "L",
+			"Professor": "Yani Handayani",
+			"Group": ["VIII A"],
+			"Classroom": "VIII A",
+			"Length": "2"
+		},
+		{
+			"Subject": "Prakarya",
+			"Type": "L",
+			"Professor": "Yani Handayani",
+			"Group": ["VIII B"],
+			"Classroom": "VIII B",
+			"Length": "2"
+		},
+		{
+			"Subject": "Prakarya",
+			"Type": "L",
+			"Professor": "Yani Handayani",
+			"Group": ["VIII C"],
+			"Classroom": "VIII C",
+			"Length": "2"
+		},
+		{
+			"Subject": "Prakarya",
+			"Type": "L",
+			"Professor": "Yani Handayani",
+			"Group": ["VIII D"],
+			"Classroom": "VIII D",
+			"Length": "2"
+		},
+		{
+			"Subject": "Prakarya",
+			"Type": "L",
+			"Professor": "Yani Handayani",
+			"Group": ["VIII E"],
+			"Classroom": "VIII E",
+			"Length": "2"
+		},
+		{
+			"Subject": "Prakarya",
+			"Type": "L",
+			"Professor": "Yani Handayani",
+			"Group": ["VIII F"],
+			"Classroom": "VIII F",
+			"Length": "2"
+		},
+		{
+			"Subject": "Prakarya",
+			"Type": "L",
+			"Professor": "Yani Handayani",
+			"Group": ["VIII G"],
+			"Classroom": "VIII G",
+			"Length": "2"
+		},
+		{
+			"Subject": "Prakarya",
+			"Type": "L",
+			"Professor": "Yani Handayani",
+			"Group": ["VIII H"],
+			"Classroom": "VIII H",
+			"Length": "2"
+		},
+		{
+			"Subject": "Prakarya",
+			"Type": "L",
+			"Professor": "Yani Handayani",
+			"Group": ["VIII I"],
+			"Classroom": "VIII I",
+			"Length": "2"
+		},
+		{
+			"Subject": "Prakarya",
+			"Type": "L",
+			"Professor": "Yani Handayani",
+			"Group": ["VIII J"],
+			"Classroom": "VIII J",
+			"Length": "2"
+		},
+
+
+		{
+			"Subject": "Pendidikan Agama dan Budi Pekerti",
+			"Type": "L",
+			"Professor": "Lalita Oktaviani",
+			"Group": ["IX A"],
+			"Classroom": "IX A",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Agama dan Budi Pekerti",
+			"Type": "L",
+			"Professor": "Lalita Oktaviani",
+			"Group": ["IX B"],
+			"Classroom": "IX B",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Agama dan Budi Pekerti",
+			"Type": "L",
+			"Professor": "Lalita Oktaviani",
+			"Group": ["IX C"],
+			"Classroom": "IX C",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Agama dan Budi Pekerti",
+			"Type": "L",
+			"Professor": "Lalita Oktaviani",
+			"Group": ["IX D"],
+			"Classroom": "IX D",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Agama dan Budi Pekerti",
+			"Type": "L",
+			"Professor": "Lalita Oktaviani",
+			"Group": ["IX E"],
+			"Classroom": "IX E",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Agama dan Budi Pekerti",
+			"Type": "L",
+			"Professor": "Lalita Oktaviani",
+			"Group": ["IX F"],
+			"Classroom": "IX F",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Agama dan Budi Pekerti",
+			"Type": "L",
+			"Professor": "Lalita Oktaviani",
+			"Group": ["IX G"],
+			"Classroom": "IX G",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Agama dan Budi Pekerti",
+			"Type": "L",
+			"Professor": "Lalita Oktaviani",
+			"Group": ["IX H"],
+			"Classroom": "IX H",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Agama dan Budi Pekerti",
+			"Type": "L",
+			"Professor": "Lalita Oktaviani",
+			"Group": ["IX I"],
+			"Classroom": "IX I",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Agama dan Budi Pekerti",
+			"Type": "L",
+			"Professor": "Lalita Oktaviani",
+			"Group": ["IX J"],
+			"Classroom": "IX J",
+			"Length": "3"
+		},
+		{
+			"Subject": "PKN",
+			"Type": "L",
+			"Professor": "Dagel Thamrin",
+			"Group": ["IX A"],
+			"Classroom": "IX A",
+			"Length": "3"
+		},
+		{
+			"Subject": "PKN",
+			"Type": "L",
+			"Professor": "Dagel Thamrin",
+			"Group": ["IX B"],
+			"Classroom": "IX B",
+			"Length": "3"
+		},
+		{
+			"Subject": "PKN",
+			"Type": "L",
+			"Professor": "Dagel Thamrin",
+			"Group": ["IX C"],
+			"Classroom": "IX C",
+			"Length": "3"
+		},
+		{
+			"Subject": "PKN",
+			"Type": "L",
+			"Professor": "Dagel Thamrin",
+			"Group": ["IX D"],
+			"Classroom": "IX D",
+			"Length": "3"
+		},
+		{
+			"Subject": "PKN",
+			"Type": "L",
+			"Professor": "Dagel Thamrin",
+			"Group": ["IX E"],
+			"Classroom": "IX E",
+			"Length": "3"
+		},
+		{
+			"Subject": "PKN",
+			"Type": "L",
+			"Professor": "Dagel Thamrin",
+			"Group": ["IX F"],
+			"Classroom": "IX F",
+			"Length": "3"
+		},
+		{
+			"Subject": "PKN",
+			"Type": "L",
+			"Professor": "Dagel Thamrin",
+			"Group": ["IX G"],
+			"Classroom": "IX G",
+			"Length": "3"
+		},
+		{
+			"Subject": "PKN",
+			"Type": "L",
+			"Professor": "Dagel Thamrin",
+			"Group": ["IX H"],
+			"Classroom": "IX H",
+			"Length": "3"
+		},
+		{
+			"Subject": "PKN",
+			"Type": "L",
+			"Professor": "Dagel Thamrin",
+			"Group": ["IX I"],
+			"Classroom": "IX I",
+			"Length": "3"
+		},
+		{
+			"Subject": "PKN",
+			"Type": "L",
+			"Professor": "Dagel Thamrin",
+			"Group": ["IX J"],
+			"Classroom": "IX J",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 1",
+			"Type": "L",
+			"Professor": "Samiah Mandasari",
+			"Group": ["IX A"],
+			"Classroom": "IX A",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 1",
+			"Type": "L",
+			"Professor": "Samiah Mandasari",
+			"Group": ["IX B"],
+			"Classroom": "IX B",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 1",
+			"Type": "L",
+			"Professor": "Samiah Mandasari",
+			"Group": ["IX C"],
+			"Classroom": "IX C",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 1",
+			"Type": "L",
+			"Professor": "Samiah Mandasari",
+			"Group": ["IX D"],
+			"Classroom": "IX D",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 1",
+			"Type": "L",
+			"Professor": "Samiah Mandasari",
+			"Group": ["IX E"],
+			"Classroom": "IX E",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 1",
+			"Type": "L",
+			"Professor": "Embuh Saptono",
+			"Group": ["IX F"],
+			"Classroom": "IX F",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 1",
+			"Type": "L",
+			"Professor": "Embuh Saptono",
+			"Group": ["IX G"],
+			"Classroom": "IX G",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 1",
+			"Type": "L",
+			"Professor": "Embuh Saptono",
+			"Group": ["IX H"],
+			"Classroom": "IX H",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 1",
+			"Type": "L",
+			"Professor": "Embuh Saptono",
+			"Group": ["IX I"],
+			"Classroom": "IX I",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 1",
+			"Type": "L",
+			"Professor": "Embuh Saptono",
+			"Group": ["IX J"],
+			"Classroom": "IX J",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 2",
+			"Type": "L",
+			"Professor": "Samiah Mandasari",
+			"Group": ["IX A"],
+			"Classroom": "IX A",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 2",
+			"Type": "L",
+			"Professor": "Samiah Mandasari",
+			"Group": ["IX B"],
+			"Classroom": "IX B",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 2",
+			"Type": "L",
+			"Professor": "Samiah Mandasari",
+			"Group": ["IX C"],
+			"Classroom": "IX C",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 2",
+			"Type": "L",
+			"Professor": "Samiah Mandasari",
+			"Group": ["IX D"],
+			"Classroom": "IX D",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 2",
+			"Type": "L",
+			"Professor": "Samiah Mandasari",
+			"Group": ["IX E"],
+			"Classroom": "IX E",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 2",
+			"Type": "L",
+			"Professor": "Embuh Saptono",
+			"Group": ["IX F"],
+			"Classroom": "IX F",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 2",
+			"Type": "L",
+			"Professor": "Embuh Saptono",
+			"Group": ["IX G"],
+			"Classroom": "IX G",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 2",
+			"Type": "L",
+			"Professor": "Embuh Saptono",
+			"Group": ["IX H"],
+			"Classroom": "IX H",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 2",
+			"Type": "L",
+			"Professor": "Embuh Saptono",
+			"Group": ["IX I"],
+			"Classroom": "IX I",
+			"Length": "3"
+		},
+		{
+			"Subject": "Bahasa Indonesia 2",
+			"Type": "L",
+			"Professor": "Embuh Saptono",
+			"Group": ["IX J"],
+			"Classroom": "IX J",
+			"Length": "3"
+		},
+		{
+			"Subject": "Matematika 1",
+			"Type": "L",
+			"Professor": "Rini Aryani",
+			"Group": ["IX A"],
+			"Classroom": "IX A",
+			"Length": "3"
+		},
+		{
+			"Subject": "Matematika 1",
+			"Type": "L",
+			"Professor": "Rini Aryani",
+			"Group": ["IX B"],
+			"Classroom": "IX B",
+			"Length": "3"
+		},
+		{
+			"Subject": "Matematika 1",
+			"Type": "L",
+			"Professor": "Rini Aryani",
+			"Group": ["IX C"],
+			"Classroom": "IX C",
+			"Length": "3"
+		},
+		{
+			"Subject": "Matematika 1",
+			"Type": "L",
+			"Professor": "Rini Aryani",
+			"Group": ["IX D"],
+			"Classroom": "IX D",
+			"Length": "3"
+		},
+		{
+			"Subject": "Matematika 1",
+			"Type": "L",
+			"Professor": "Rini Aryani",
+			"Group": ["IX E"],
+			"Classroom": "IX E",
+			"Length": "3"
+		},
+		{
+			"Subject": "Matematika 1",
+			"Type": "L",
+			"Professor": "Keisha Suryatmi",
+			"Group": ["IX F"],
+			"Classroom": "IX F",
+			"Length": "3"
+		},
+		{
+			"Subject": "Matematika 1",
+			"Type": "L",
+			"Professor": "Keisha Suryatmi",
+			"Group": ["IX G"],
+			"Classroom": "IX G",
+			"Length": "3"
+		},
+		{
+			"Subject": "Matematika 1",
+			"Type": "L",
+			"Professor": "Keisha Suryatmi",
+			"Group": ["IX H"],
+			"Classroom": "IX H",
+			"Length": "3"
+		},
+		{
+			"Subject": "Matematika 1",
+			"Type": "L",
+			"Professor": "Keisha Suryatmi",
+			"Group": ["IX I"],
+			"Classroom": "IX I",
+			"Length": "3"
+		},
+		{
+			"Subject": "Matematika 1",
+			"Type": "L",
+			"Professor": "Keisha Suryatmi",
+			"Group": ["IX J"],
+			"Classroom": "IX J",
+			"Length": "3"
+		},
+		{
+			"Subject": "Matematika 2",
+			"Type": "L",
+			"Professor": "Rini Aryani",
+			"Group": ["IX A"],
+			"Classroom": "IX A",
+			"Length": "2"
+		},
+		{
+			"Subject": "Matematika 2",
+			"Type": "L",
+			"Professor": "Rini Aryani",
+			"Group": ["IX B"],
+			"Classroom": "IX B",
+			"Length": "2"
+		},
+		{
+			"Subject": "Matematika 2",
+			"Type": "L",
+			"Professor": "Rini Aryani",
+			"Group": ["IX C"],
+			"Classroom": "IX C",
+			"Length": "2"
+		},
+		{
+			"Subject": "Matematika 2",
+			"Type": "L",
+			"Professor": "Rini Aryani",
+			"Group": ["IX D"],
+			"Classroom": "IX D",
+			"Length": "2"
+		},
+		{
+			"Subject": "Matematika 2",
+			"Type": "L",
+			"Professor": "Rini Aryani",
+			"Group": ["IX E"],
+			"Classroom": "IX E",
+			"Length": "2"
+		},
+		{
+			"Subject": "Matematika 2",
+			"Type": "L",
+			"Professor": "Keisha Suryatmi",
+			"Group": ["IX F"],
+			"Classroom": "IX F",
+			"Length": "2"
+		},
+		{
+			"Subject": "Matematika 2",
+			"Type": "L",
+			"Professor": "Keisha Suryatmi",
+			"Group": ["IX G"],
+			"Classroom": "IX G",
+			"Length": "2"
+		},
+		{
+			"Subject": "Matematika 2",
+			"Type": "L",
+			"Professor": "Keisha Suryatmi",
+			"Group": ["IX H"],
+			"Classroom": "IX H",
+			"Length": "2"
+		},
+		{
+			"Subject": "Matematika 2",
+			"Type": "L",
+			"Professor": "Keisha Suryatmi",
+			"Group": ["IX I"],
+			"Classroom": "IX I",
+			"Length": "2"
+		},
+		{
+			"Subject": "Matematika 2",
+			"Type": "L",
+			"Professor": "Keisha Suryatmi",
+			"Group": ["IX J"],
+			"Classroom": "IX J",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 1",
+			"Type": "L",
+			"Professor": "Gada Tarihoran",
+			"Group": ["IX A"],
+			"Classroom": "IX A",
+			"Length": "3"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 1",
+			"Type": "L",
+			"Professor": "Gada Tarihoran",
+			"Group": ["IX B"],
+			"Classroom": "IX B",
+			"Length": "3"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 1",
+			"Type": "L",
+			"Professor": "Gada Tarihoran",
+			"Group": ["IX C"],
+			"Classroom": "IX C",
+			"Length": "3"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 1",
+			"Type": "L",
+			"Professor": "Gada Tarihoran",
+			"Group": ["IX D"],
+			"Classroom": "IX D",
+			"Length": "3"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 1",
+			"Type": "L",
+			"Professor": "Gada Tarihoran",
+			"Group": ["IX E"],
+			"Classroom": "IX E",
+			"Length": "3"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 1",
+			"Type": "L",
+			"Professor": "Ade Saefullah",
+			"Group": ["IX F"],
+			"Classroom": "IX F",
+			"Length": "3"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 1",
+			"Type": "L",
+			"Professor": "Ade Saefullah",
+			"Group": ["IX G"],
+			"Classroom": "IX G",
+			"Length": "3"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 1",
+			"Type": "L",
+			"Professor": "Ade Saefullah",
+			"Group": ["IX H"],
+			"Classroom": "IX H",
+			"Length": "3"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 1",
+			"Type": "L",
+			"Professor": "Ade Saefullah",
+			"Group": ["IX I"],
+			"Classroom": "IX I",
+			"Length": "3"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 1",
+			"Type": "L",
+			"Professor": "Ade Saefullah",
+			"Group": ["IX J"],
+			"Classroom": "IX J",
+			"Length": "3"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 2",
+			"Type": "L",
+			"Professor": "Gada Tarihoran",
+			"Group": ["IX A"],
+			"Classroom": "IX A",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 2",
+			"Type": "L",
+			"Professor": "Gada Tarihoran",
+			"Group": ["IX B"],
+			"Classroom": "IX B",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 2",
+			"Type": "L",
+			"Professor": "Gada Tarihoran",
+			"Group": ["IX C"],
+			"Classroom": "IX C",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 2",
+			"Type": "L",
+			"Professor": "Gada Tarihoran",
+			"Group": ["IX D"],
+			"Classroom": "IX D",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 2",
+			"Type": "L",
+			"Professor": "Gada Tarihoran",
+			"Group": ["IX E"],
+			"Classroom": "IX E",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 2",
+			"Type": "L",
+			"Professor": "Ade Saefullah",
+			"Group": ["IX F"],
+			"Classroom": "IX F",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 2",
+			"Type": "L",
+			"Professor": "Ade Saefullah",
+			"Group": ["IX G"],
+			"Classroom": "IX G",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 2",
+			"Type": "L",
+			"Professor": "Ade Saefullah",
+			"Group": ["IX H"],
+			"Classroom": "IX H",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 2",
+			"Type": "L",
+			"Professor": "Ade Saefullah",
+			"Group": ["IX I"],
+			"Classroom": "IX I",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Alam 2",
+			"Type": "L",
+			"Professor": "Ade Saefullah",
+			"Group": ["IX J"],
+			"Classroom": "IX J",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 1",
+			"Type": "L",
+			"Professor": "Farah Wulandari",
+			"Group": ["IX A"],
+			"Classroom": "IX A",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 1",
+			"Type": "L",
+			"Professor": "Farah Wulandari",
+			"Group": ["IX B"],
+			"Classroom": "IX B",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 1",
+			"Type": "L",
+			"Professor": "Farah Wulandari",
+			"Group": ["IX C"],
+			"Classroom": "IX C",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 1",
+			"Type": "L",
+			"Professor": "Farah Wulandari",
+			"Group": ["IX D"],
+			"Classroom": "IX D",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 1",
+			"Type": "L",
+			"Professor": "Farah Wulandari",
+			"Group": ["IX E"],
+			"Classroom": "IX E",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 1",
+			"Type": "L",
+			"Professor": "Julia Fujiati",
+			"Group": ["IX F"],
+			"Classroom": "IX F",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 1",
+			"Type": "L",
+			"Professor": "Julia Fujiati",
+			"Group": ["IX G"],
+			"Classroom": "IX G",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 1",
+			"Type": "L",
+			"Professor": "Julia Fujiati",
+			"Group": ["IX H"],
+			"Classroom": "IX H",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 1",
+			"Type": "L",
+			"Professor": "Julia Fujiati",
+			"Group": ["IX I"],
+			"Classroom": "IX I",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 1",
+			"Type": "L",
+			"Professor": "Julia Fujiati",
+			"Group": ["IX J"],
+			"Classroom": "IX J",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 2",
+			"Type": "L",
+			"Professor": "Farah Wulandari",
+			"Group": ["IX A"],
+			"Classroom": "IX A",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 2",
+			"Type": "L",
+			"Professor": "Farah Wulandari",
+			"Group": ["IX B"],
+			"Classroom": "IX B",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 2",
+			"Type": "L",
+			"Professor": "Farah Wulandari",
+			"Group": ["IX C"],
+			"Classroom": "IX C",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 2",
+			"Type": "L",
+			"Professor": "Farah Wulandari",
+			"Group": ["IX D"],
+			"Classroom": "IX D",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 2",
+			"Type": "L",
+			"Professor": "Farah Wulandari",
+			"Group": ["IX E"],
+			"Classroom": "IX E",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 2",
+			"Type": "L",
+			"Professor": "Julia Fujiati",
+			"Group": ["IX F"],
+			"Classroom": "IX F",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 2",
+			"Type": "L",
+			"Professor": "Julia Fujiati",
+			"Group": ["IX G"],
+			"Classroom": "IX G",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 2",
+			"Type": "L",
+			"Professor": "Julia Fujiati",
+			"Group": ["IX H"],
+			"Classroom": "IX H",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 2",
+			"Type": "L",
+			"Professor": "Julia Fujiati",
+			"Group": ["IX I"],
+			"Classroom": "IX I",
+			"Length": "2"
+		},
+		{
+			"Subject": "Ilmu Pengetahuan Sosial 2",
+			"Type": "L",
+			"Professor": "Julia Fujiati",
+			"Group": ["IX J"],
+			"Classroom": "IX J",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 1",
+			"Type": "L",
+			"Professor": "Elisa Hasanah",
+			"Group": ["IX A"],
+			"Classroom": "IX A",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 1",
+			"Type": "L",
+			"Professor": "Elisa Hasanah",
+			"Group": ["IX B"],
+			"Classroom": "IX B",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 1",
+			"Type": "L",
+			"Professor": "Elisa Hasanah",
+			"Group": ["IX C"],
+			"Classroom": "IX C",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 1",
+			"Type": "L",
+			"Professor": "Elisa Hasanah",
+			"Group": ["IX D"],
+			"Classroom": "IX D",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 1",
+			"Type": "L",
+			"Professor": "Elisa Hasanah",
+			"Group": ["IX E"],
+			"Classroom": "IX E",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 1",
+			"Type": "L",
+			"Professor": "Elisa Hasanah",
+			"Group": ["IX F"],
+			"Classroom": "IX F",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 1",
+			"Type": "L",
+			"Professor": "Elisa Hasanah",
+			"Group": ["IX G"],
+			"Classroom": "IX G",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 1",
+			"Type": "L",
+			"Professor": "Elisa Hasanah",
+			"Group": ["IX H"],
+			"Classroom": "IX H",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 1",
+			"Type": "L",
+			"Professor": "Elisa Hasanah",
+			"Group": ["IX I"],
+			"Classroom": "IX I",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 1",
+			"Type": "L",
+			"Professor": "Elisa Hasanah",
+			"Group": ["IX J"],
+			"Classroom": "IX J",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 2",
+			"Type": "L",
+			"Professor": "Elisa Hasanah",
+			"Group": ["IX A"],
+			"Classroom": "IX A",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 2",
+			"Type": "L",
+			"Professor": "Elisa Hasanah",
+			"Group": ["IX B"],
+			"Classroom": "IX B",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 2",
+			"Type": "L",
+			"Professor": "Elisa Hasanah",
+			"Group": ["IX C"],
+			"Classroom": "IX C",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 2",
+			"Type": "L",
+			"Professor": "Elisa Hasanah",
+			"Group": ["IX D"],
+			"Classroom": "IX D",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 2",
+			"Type": "L",
+			"Professor": "Elisa Hasanah",
+			"Group": ["IX E"],
+			"Classroom": "IX E",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 2",
+			"Type": "L",
+			"Professor": "Elisa Hasanah",
+			"Group": ["IX F"],
+			"Classroom": "IX F",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 2",
+			"Type": "L",
+			"Professor": "Elisa Hasanah",
+			"Group": ["IX G"],
+			"Classroom": "IX G",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 2",
+			"Type": "L",
+			"Professor": "Elisa Hasanah",
+			"Group": ["IX H"],
+			"Classroom": "IX H",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 2",
+			"Type": "L",
+			"Professor": "Elisa Hasanah",
+			"Group": ["IX I"],
+			"Classroom": "IX I",
+			"Length": "2"
+		},
+		{
+			"Subject": "Bahasa Inggris 2",
+			"Type": "L",
+			"Professor": "Elisa Hasanah",
+			"Group": ["IX J"],
+			"Classroom": "IX J",
+			"Length": "2"
+		},
+		{
+			"Subject": "Seni Budaya",
+			"Type": "L",
+			"Professor": "Taufan Hutapea",
+			"Group": ["IX A"],
+			"Classroom": "IX A",
+			"Length": "3"
+		},
+		{
+			"Subject": "Seni Budaya",
+			"Type": "L",
+			"Professor": "Taufan Hutapea",
+			"Group": ["IX B"],
+			"Classroom": "IX B",
+			"Length": "3"
+		},
+		{
+			"Subject": "Seni Budaya",
+			"Type": "L",
+			"Professor": "Taufan Hutapea",
+			"Group": ["IX C"],
+			"Classroom": "IX C",
+			"Length": "3"
+		},
+		{
+			"Subject": "Seni Budaya",
+			"Type": "L",
+			"Professor": "Taufan Hutapea",
+			"Group": ["IX D"],
+			"Classroom": "IX D",
+			"Length": "3"
+		},
+		{
+			"Subject": "Seni Budaya",
+			"Type": "L",
+			"Professor": "Taufan Hutapea",
+			"Group": ["IX E"],
+			"Classroom": "IX E",
+			"Length": "3"
+		},
+		{
+			"Subject": "Seni Budaya",
+			"Type": "L",
+			"Professor": "Taufan Hutapea",
+			"Group": ["IX F"],
+			"Classroom": "IX F",
+			"Length": "3"
+		},
+		{
+			"Subject": "Seni Budaya",
+			"Type": "L",
+			"Professor": "Taufan Hutapea",
+			"Group": ["IX G"],
+			"Classroom": "IX G",
+			"Length": "3"
+		},
+		{
+			"Subject": "Seni Budaya",
+			"Type": "L",
+			"Professor": "Taufan Hutapea",
+			"Group": ["IX H"],
+			"Classroom": "IX H",
+			"Length": "3"
+		},
+		{
+			"Subject": "Seni Budaya",
+			"Type": "L",
+			"Professor": "Taufan Hutapea",
+			"Group": ["IX I"],
+			"Classroom": "IX I",
+			"Length": "3"
+		},
+		{
+			"Subject": "Seni Budaya",
+			"Type": "L",
+			"Professor": "Taufan Hutapea",
+			"Group": ["IX J"],
+			"Classroom": "IX J",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+			"Type": "L",
+			"Professor": "Emong Maryadi",
+			"Group": ["IX A"],
+			"Classroom": "IX A",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+			"Type": "L",
+			"Professor": "Emong Maryadi",
+			"Group": ["IX B"],
+			"Classroom": "IX B",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+			"Type": "L",
+			"Professor": "Emong Maryadi",
+			"Group": ["IX C"],
+			"Classroom": "IX C",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+			"Type": "L",
+			"Professor": "Emong Maryadi",
+			"Group": ["IX D"],
+			"Classroom": "IX D",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+			"Type": "L",
+			"Professor": "Emong Maryadi",
+			"Group": ["IX E"],
+			"Classroom": "IX E",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+			"Type": "L",
+			"Professor": "Emong Maryadi",
+			"Group": ["IX F"],
+			"Classroom": "IX F",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+			"Type": "L",
+			"Professor": "Emong Maryadi",
+			"Group": ["IX G"],
+			"Classroom": "IX G",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+			"Type": "L",
+			"Professor": "Emong Maryadi",
+			"Group": ["IX H"],
+			"Classroom": "IX H",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+			"Type": "L",
+			"Professor": "Emong Maryadi",
+			"Group": ["IX I"],
+			"Classroom": "IX I",
+			"Length": "3"
+		},
+		{
+			"Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+			"Type": "L",
+			"Professor": "Emong Maryadi",
+			"Group": ["IX J"],
+			"Classroom": "IX J",
+			"Length": "3"
+		},
+		{
+			"Subject": "Prakarya",
+			"Type": "L",
+			"Professor": "Genta Hastuti",
+			"Group": ["IX A"],
+			"Classroom": "IX A",
+			"Length": "2"
+		},
+		{
+			"Subject": "Prakarya",
+			"Type": "L",
+			"Professor": "Genta Hastuti",
+			"Group": ["IX B"],
+			"Classroom": "IX B",
+			"Length": "2"
+		},
+		{
+			"Subject": "Prakarya",
+			"Type": "L",
+			"Professor": "Genta Hastuti",
+			"Group": ["IX C"],
+			"Classroom": "IX C",
+			"Length": "2"
+		},
+		{
+			"Subject": "Prakarya",
+			"Type": "L",
+			"Professor": "Genta Hastuti",
+			"Group": ["IX D"],
+			"Classroom": "IX D",
+			"Length": "2"
+		},
+		{
+			"Subject": "Prakarya",
+			"Type": "L",
+			"Professor": "Genta Hastuti",
+			"Group": ["IX E"],
+			"Classroom": "IX E",
+			"Length": "2"
+		},
+		{
+			"Subject": "Prakarya",
+			"Type": "L",
+			"Professor": "Genta Hastuti",
+			"Group": ["IX F"],
+			"Classroom": "IX F",
+			"Length": "2"
+		},
+		{
+			"Subject": "Prakarya",
+			"Type": "L",
+			"Professor": "Genta Hastuti",
+			"Group": ["IX G"],
+			"Classroom": "IX G",
+			"Length": "2"
+		},
+		{
+			"Subject": "Prakarya",
+			"Type": "L",
+			"Professor": "Genta Hastuti",
+			"Group": ["IX H"],
+			"Classroom": "IX H",
+			"Length": "2"
+		},
+		{
+			"Subject": "Prakarya",
+			"Type": "L",
+			"Professor": "Genta Hastuti",
+			"Group": ["IX I"],
+			"Classroom": "IX I",
+			"Length": "2"
+		},
+		{
+			"Subject": "Prakarya",
+			"Type": "L",
+			"Professor": "Genta Hastuti",
+			"Group": ["IX J"],
+			"Classroom": "IX J",
+			"Length": "2"
+		}
+	]
+}

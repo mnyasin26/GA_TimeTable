@@ -1,0 +1,6135 @@
+[
+    {
+        "Subject": "Pendidikan Agama dan Budi Pekerti",
+        "Assigned_classroom": "VII A",
+        "Assigned_time": 18
+    },
+    {
+        "Subject": "Pendidikan Agama dan Budi Pekerti",
+        "Assigned_classroom": "VII B",
+        "Assigned_time": 3
+    },
+    {
+        "Subject": "Pendidikan Agama dan Budi Pekerti",
+        "Assigned_classroom": "VII C",
+        "Assigned_time": 29
+    },
+    {
+        "Subject": "Pendidikan Agama dan Budi Pekerti",
+        "Assigned_classroom": "VII D",
+        "Assigned_time": 21
+    },
+    {
+        "Subject": "Pendidikan Agama dan Budi Pekerti",
+        "Assigned_classroom": "VII E",
+        "Assigned_time": 35
+    },
+    {
+        "Subject": "Pendidikan Agama dan Budi Pekerti",
+        "Assigned_classroom": "VII F",
+        "Assigned_time": 10
+    },
+    {
+        "Subject": "Pendidikan Agama dan Budi Pekerti",
+        "Assigned_classroom": "VII G",
+        "Assigned_time": 24
+    },
+    {
+        "Subject": "Pendidikan Agama dan Budi Pekerti",
+        "Assigned_classroom": "VII H",
+        "Assigned_time": 32
+    },
+    {
+        "Subject": "Pendidikan Agama dan Budi Pekerti",
+        "Assigned_classroom": "VII I",
+        "Assigned_time": 13
+    },
+    {
+        "Subject": "Pendidikan Agama dan Budi Pekerti",
+        "Assigned_classroom": "VII J",
+        "Assigned_time": 0
+    },
+    {
+        "Subject": "PKN",
+        "Assigned_classroom": "VII A",
+        "Assigned_time": 0
+    },
+    {
+        "Subject": "PKN",
+        "Assigned_classroom": "VII B",
+        "Assigned_time": 32
+    },
+    {
+        "Subject": "PKN",
+        "Assigned_classroom": "VII C",
+        "Assigned_time": 18
+    },
+    {
+        "Subject": "PKN",
+        "Assigned_classroom": "VII D",
+        "Assigned_time": 8
+    },
+    {
+        "Subject": "PKN",
+        "Assigned_classroom": "VII E",
+        "Assigned_time": 5
+    },
+    {
+        "Subject": "PKN",
+        "Length": "3",
+        "Assigned_classroom": "VII F",
+        "Assigned_time": 20
+    },
+    {
+        "Subject": "PKN",
+        "Length": "3",
+        "Assigned_classroom": "VII G",
+        "Assigned_time": 35
+    },
+    {
+        "Subject": "PKN",
+        "Length": "3",
+        "Assigned_classroom": "VII H",
+        "Assigned_time": 11
+    },
+    {
+        "Subject": "PKN",
+        "Length": "3",
+        "Assigned_classroom": "VII I",
+        "Assigned_time": 29
+    },
+    {
+        "Subject": "PKN",
+        
+        
+        
+            "VII J"
+        
+        
+            "VII J"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII J",
+        "Assigned_time": 24
+    },
+    {
+        "Subject": "Bahasa Indonesia 1",
+        
+        
+        
+            "VII A"
+        
+        
+            "VII A"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII A",
+        "Assigned_time": 34
+    },
+    {
+        "Subject": "Bahasa Indonesia 1",
+        
+        
+        
+            "VII B"
+        
+        
+            "VII B"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII B",
+        "Assigned_time": 0
+    },
+    {
+        "Subject": "Bahasa Indonesia 1",
+        
+        
+        
+            "VII C"
+        
+        
+            "VII C"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII C",
+        "Assigned_time": 13
+    },
+    {
+        "Subject": "Bahasa Indonesia 1",
+        
+        
+        
+            "VII D"
+        
+        
+            "VII D"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII D",
+        "Assigned_time": 4
+    },
+    {
+        "Subject": "Bahasa Indonesia 1",
+        
+        
+        
+            "VII E"
+        
+        
+            "VII E"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII E",
+        "Assigned_time": 29
+    },
+    {
+        "Subject": "Bahasa Indonesia 1",
+        
+        
+        
+            "VII F"
+        
+        
+            "VII F"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII F",
+        "Assigned_time": 5
+    },
+    {
+        "Subject": "Bahasa Indonesia 1",
+        
+        
+        
+            "VII G"
+        
+        
+            "VII G"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII G",
+        "Assigned_time": 8
+    },
+    {
+        "Subject": "Bahasa Indonesia 1",
+        
+        
+        
+            "VII H"
+        
+        
+            "VII H"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII H",
+        "Assigned_time": 34
+    },
+    {
+        "Subject": "Bahasa Indonesia 1",
+        
+        
+        
+            "VII I"
+        
+        
+            "VII I"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII I",
+        "Assigned_time": 5
+    },
+    {
+        "Subject": "Bahasa Indonesia 1",
+        
+        
+        
+            "VII J"
+        
+        
+            "VII J"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII J",
+        "Assigned_time": 10
+    },
+    {
+        "Subject": "Bahasa Indonesia 2",
+        
+        
+        
+            "VII A"
+        
+        
+            "VII A"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII A",
+        "Assigned_time": 26
+    },
+    {
+        "Subject": "Bahasa Indonesia 2",
+        
+        
+        
+            "VII B"
+        
+        
+            "VII B"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII B",
+        "Assigned_time": 20
+    },
+    {
+        "Subject": "Bahasa Indonesia 2",
+        
+        
+        
+            "VII C"
+        
+        
+            "VII C"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII C",
+        "Assigned_time": 5
+    },
+    {
+        "Subject": "Bahasa Indonesia 2",
+        
+        
+        
+            "VII D"
+        
+        
+            "VII D"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII D",
+        "Assigned_time": 29
+    },
+    {
+        "Subject": "Bahasa Indonesia 2",
+        
+        
+        
+            "VII E"
+        
+        
+            "VII E"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII E",
+        "Assigned_time": 1
+    },
+    {
+        "Subject": "Bahasa Indonesia 2",
+        
+        
+        
+            "VII F"
+        
+        
+            "VII F"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII F",
+        "Assigned_time": 32
+    },
+    {
+        "Subject": "Bahasa Indonesia 2",
+        
+        
+        
+            "VII G"
+        
+        
+            "VII G"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII G",
+        "Assigned_time": 29
+    },
+    {
+        "Subject": "Bahasa Indonesia 2",
+        
+        
+        
+            "VII H"
+        
+        
+            "VII H"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII H",
+        "Assigned_time": 24
+    },
+    {
+        "Subject": "Bahasa Indonesia 2",
+        
+        
+        
+            "VII I"
+        
+        
+            "VII I"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII I",
+        "Assigned_time": 17
+    },
+    {
+        "Subject": "Bahasa Indonesia 2",
+        
+        
+        
+            "VII J"
+        
+        
+            "VII J"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII J",
+        "Assigned_time": 34
+    },
+    {
+        "Subject": "Matematika 1",
+        
+        
+        
+            "VII A"
+        
+        
+            "VII A"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII A",
+        "Assigned_time": 13
+    },
+    {
+        "Subject": "Matematika 1",
+        
+        
+        
+            "VII B"
+        
+        
+            "VII B"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII B",
+        "Assigned_time": 24
+    },
+    {
+        "Subject": "Matematika 1",
+        
+        
+        
+            "VII C"
+        
+        
+            "VII C"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII C",
+        "Assigned_time": 10
+    },
+    {
+        "Subject": "Matematika 1",
+        
+        
+        
+            "VII D"
+        
+        
+            "VII D"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII D",
+        "Assigned_time": 17
+    },
+    {
+        "Subject": "Matematika 1",
+        
+        
+        
+            "VII E"
+        
+        
+            "VII E"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII E",
+        "Assigned_time": 20
+    },
+    {
+        "Subject": "Matematika 1",
+        
+        
+        
+            "VII F"
+        
+        
+            "VII F"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII F",
+        "Assigned_time": 29
+    },
+    {
+        "Subject": "Matematika 1",
+        
+        
+        
+            "VII G"
+        
+        
+            "VII G"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII G",
+        "Assigned_time": 32
+    },
+    {
+        "Subject": "Matematika 1",
+        
+        
+        
+            "VII H"
+        
+        
+            "VII H"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII H",
+        "Assigned_time": 21
+    },
+    {
+        "Subject": "Matematika 1",
+        
+        
+        
+            "VII I"
+        
+        
+            "VII I"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII I",
+        "Assigned_time": 2
+    },
+    {
+        "Subject": "Matematika 1",
+        
+        
+        
+            "VII J"
+        
+        
+            "VII J"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII J",
+        "Assigned_time": 27
+    },
+    {
+        "Subject": "Matematika 2",
+        
+        
+        
+            "VII A"
+        
+        
+            "VII A"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII A",
+        "Assigned_time": 37
+    },
+    {
+        "Subject": "Matematika 2",
+        
+        
+        
+            "VII B"
+        
+        
+            "VII B"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII B",
+        "Assigned_time": 35
+    },
+    {
+        "Subject": "Matematika 2",
+        
+        
+        
+            "VII C"
+        
+        
+            "VII C"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII C",
+        "Assigned_time": 16
+    },
+    {
+        "Subject": "Matematika 2",
+        
+        
+        
+            "VII D"
+        
+        
+            "VII D"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII D",
+        "Assigned_time": 27
+    },
+    {
+        "Subject": "Matematika 2",
+        
+        
+        
+            "VII E"
+        
+        
+            "VII E"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII E",
+        "Assigned_time": 27
+    },
+    {
+        "Subject": "Matematika 2",
+        
+        
+        
+            "VII F"
+        
+        
+            "VII F"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII F",
+        "Assigned_time": 0
+    },
+    {
+        "Subject": "Matematika 2",
+        
+        
+        
+            "VII G"
+        
+        
+            "VII G"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII G",
+        "Assigned_time": 5
+    },
+    {
+        "Subject": "Matematika 2",
+        
+        
+        
+            "VII H"
+        
+        
+            "VII H"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII H",
+        "Assigned_time": 27
+    },
+    {
+        "Subject": "Matematika 2",
+        
+        
+        
+            "VII I"
+        
+        
+            "VII I"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII I",
+        "Assigned_time": 8
+    },
+    {
+        "Subject": "Matematika 2",
+        
+        
+        
+            "VII J"
+        
+        
+            "VII J"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII J",
+        "Assigned_time": 17
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 1",
+        
+        
+        
+            "VII A"
+        
+        
+            "VII A"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII A",
+        "Assigned_time": 10
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 1",
+        
+        
+        
+            "VII B"
+        
+        
+            "VII B"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII B",
+        "Assigned_time": 5
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 1",
+        
+        
+        
+            "VII C"
+        
+        
+            "VII C"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII C",
+        "Assigned_time": 24
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 1",
+        
+        
+        
+            "VII D"
+        
+        
+            "VII D"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII D",
+        "Assigned_time": 34
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 1",
+        
+        
+        
+            "VII E"
+        
+        
+            "VII E"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII E",
+        "Assigned_time": 13
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 1",
+        
+        
+        
+            "VII F"
+        
+        
+            "VII F"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII F",
+        "Assigned_time": 13
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 1",
+        
+        
+        
+            "VII G"
+        
+        
+            "VII G"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII G",
+        "Assigned_time": 2
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 1",
+        
+        
+        
+            "VII H"
+        
+        
+            "VII H"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII H",
+        "Assigned_time": 8
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 1",
+        
+        
+        
+            "VII I"
+        
+        
+            "VII I"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII I",
+        "Assigned_time": 21
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 1",
+        
+        
+        
+            "VII J"
+        
+        
+            "VII J"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII J",
+        "Assigned_time": 13
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 2",
+        
+        
+        
+            "VII A"
+        
+        
+            "VII A"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII A",
+        "Assigned_time": 16
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 2",
+        
+        
+        
+            "VII B"
+        
+        
+            "VII B"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII B",
+        "Assigned_time": 37
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 2",
+        
+        
+        
+            "VII C"
+        
+        
+            "VII C"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII C",
+        "Assigned_time": 32
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 2",
+        
+        
+        
+            "VII D"
+        
+        
+            "VII D"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII D",
+        "Assigned_time": 20
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 2",
+        
+        
+        
+            "VII E"
+        
+        
+            "VII E"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII E",
+        "Assigned_time": 16
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 2",
+        
+        
+        
+            "VII F"
+        
+        
+            "VII F"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII F",
+        "Assigned_time": 18
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 2",
+        
+        
+        
+            "VII G"
+        
+        
+            "VII G"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII G",
+        "Assigned_time": 27
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 2",
+        
+        
+        
+            "VII H"
+        
+        
+            "VII H"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII H",
+        "Assigned_time": 16
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 2",
+        
+        
+        
+            "VII I"
+        
+        
+            "VII I"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII I",
+        "Assigned_time": 0
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 2",
+        
+        
+        
+            "VII J"
+        
+        
+            "VII J"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII J",
+        "Assigned_time": 30
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 1",
+        
+        
+        
+            "VII A"
+        
+        
+            "VII A"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII A",
+        "Assigned_time": 32
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 1",
+        
+        
+        
+            "VII B"
+        
+        
+            "VII B"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII B",
+        "Assigned_time": 18
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 1",
+        
+        
+        
+            "VII C"
+        
+        
+            "VII C"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII C",
+        "Assigned_time": 8
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 1",
+        
+        
+        
+            "VII D"
+        
+        
+            "VII D"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII D",
+        "Assigned_time": 0
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 1",
+        
+        
+        
+            "VII E"
+        
+        
+            "VII E"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII E",
+        "Assigned_time": 11
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 1",
+        
+        
+        
+            "VII F"
+        
+        
+            "VII F"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII F",
+        "Assigned_time": 37
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 1",
+        
+        
+        
+            "VII G"
+        
+        
+            "VII G"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII G",
+        "Assigned_time": 6
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 1",
+        
+        
+        
+            "VII H"
+        
+        
+            "VII H"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII H",
+        "Assigned_time": 5
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 1",
+        
+        
+        
+            "VII I"
+        
+        
+            "VII I"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII I",
+        "Assigned_time": 24
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 1",
+        
+        
+        
+            "VII J"
+        
+        
+            "VII J"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII J",
+        "Assigned_time": 16
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 2",
+        
+        
+        
+            "VII A"
+        
+        
+            "VII A"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII A",
+        "Assigned_time": 8
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 2",
+        
+        
+        
+            "VII B"
+        
+        
+            "VII B"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII B",
+        "Assigned_time": 30
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 2",
+        
+        
+        
+            "VII C"
+        
+        
+            "VII C"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII C",
+        "Assigned_time": 34
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 2",
+        
+        
+        
+            "VII D"
+        
+        
+            "VII D"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII D",
+        "Assigned_time": 13
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 2",
+        
+        
+        
+            "VII E"
+        
+        
+            "VII E"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII E",
+        "Assigned_time": 26
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 2",
+        
+        
+        
+            "VII F"
+        
+        
+            "VII F"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII F",
+        "Assigned_time": 27
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 2",
+        
+        
+        
+            "VII G"
+        
+        
+            "VII G"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII G",
+        "Assigned_time": 22
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 2",
+        
+        
+        
+            "VII H"
+        
+        
+            "VII H"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII H",
+        "Assigned_time": 3
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 2",
+        
+        
+        
+            "VII I"
+        
+        
+            "VII I"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII I",
+        "Assigned_time": 20
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 2",
+        
+        
+        
+            "VII J"
+        
+        
+            "VII J"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII J",
+        "Assigned_time": 8
+    },
+    {
+        "Subject": "Bahasa Inggris 1",
+        
+        
+        
+            "VII A"
+        
+        
+            "VII A"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII A",
+        "Assigned_time": 3
+    },
+    {
+        "Subject": "Bahasa Inggris 1",
+        
+        
+        
+            "VII B"
+        
+        
+            "VII B"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII B",
+        "Assigned_time": 10
+    },
+    {
+        "Subject": "Bahasa Inggris 1",
+        
+        
+        
+            "VII C"
+        
+        
+            "VII C"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII C",
+        "Assigned_time": 21
+    },
+    {
+        "Subject": "Bahasa Inggris 1",
+        
+        
+        
+            "VII D"
+        
+        
+            "VII D"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII D",
+        "Assigned_time": 2
+    },
+    {
+        "Subject": "Bahasa Inggris 1",
+        
+        
+        
+            "VII E"
+        
+        
+            "VII E"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII E",
+        "Assigned_time": 37
+    },
+    {
+        "Subject": "Bahasa Inggris 1",
+        
+        
+        
+            "VII F"
+        
+        
+            "VII F"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII F",
+        "Assigned_time": 8
+    },
+    {
+        "Subject": "Bahasa Inggris 1",
+        
+        
+        
+            "VII G"
+        
+        
+            "VII G"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII G",
+        "Assigned_time": 0
+    },
+    {
+        "Subject": "Bahasa Inggris 1",
+        
+        
+        
+            "VII H"
+        
+        
+            "VII H"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII H",
+        "Assigned_time": 5
+    },
+    {
+        "Subject": "Bahasa Inggris 1",
+        
+        
+        
+            "VII I"
+        
+        
+            "VII I"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII I",
+        "Assigned_time": 37
+    },
+    {
+        "Subject": "Bahasa Inggris 1",
+        
+        
+        
+            "VII J"
+        
+        
+            "VII J"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII J",
+        "Assigned_time": 19
+    },
+    {
+        "Subject": "Bahasa Inggris 2",
+        
+        
+        
+            "VII A"
+        
+        
+            "VII A"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII A",
+        "Assigned_time": 29
+    },
+    {
+        "Subject": "Bahasa Inggris 2",
+        
+        
+        
+            "VII B"
+        
+        
+            "VII B"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII B",
+        "Assigned_time": 16
+    },
+    {
+        "Subject": "Bahasa Inggris 2",
+        
+        
+        
+            "VII C"
+        
+        
+            "VII C"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII C",
+        "Assigned_time": 27
+    },
+    {
+        "Subject": "Bahasa Inggris 2",
+        
+        
+        
+            "VII D"
+        
+        
+            "VII D"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII D",
+        "Assigned_time": 11
+    },
+    {
+        "Subject": "Bahasa Inggris 2",
+        
+        
+        
+            "VII E"
+        
+        
+            "VII E"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII E",
+        "Assigned_time": 24
+    },
+    {
+        "Subject": "Bahasa Inggris 2",
+        
+        
+        
+            "VII F"
+        
+        
+            "VII F"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII F",
+        "Assigned_time": 35
+    },
+    {
+        "Subject": "Bahasa Inggris 2",
+        
+        
+        
+            "VII G"
+        
+        
+            "VII G"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII G",
+        "Assigned_time": 11
+    },
+    {
+        "Subject": "Bahasa Inggris 2",
+        
+        
+        
+            "VII H"
+        
+        
+            "VII H"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII H",
+        "Assigned_time": 37
+    },
+    {
+        "Subject": "Bahasa Inggris 2",
+        
+        
+        
+            "VII I"
+        
+        
+            "VII I"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII I",
+        "Assigned_time": 32
+    },
+    {
+        "Subject": "Bahasa Inggris 2",
+        
+        
+        
+            "VII J"
+        
+        
+            "VII J"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII J",
+        "Assigned_time": 37
+    },
+    {
+        "Subject": "Seni Budaya",
+        
+        
+        
+            "VII A"
+        
+        
+            "VII A"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII A",
+        "Assigned_time": 21
+    },
+    {
+        "Subject": "Seni Budaya",
+        
+        
+        
+            "VII B"
+        
+        
+            "VII B"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII B",
+        "Assigned_time": 11
+    },
+    {
+        "Subject": "Seni Budaya",
+        
+        
+        
+            "VII C"
+        
+        
+            "VII C"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII C",
+        "Assigned_time": 0
+    },
+    {
+        "Subject": "Seni Budaya",
+        
+        
+        
+            "VII D"
+        
+        
+            "VII D"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII D",
+        "Assigned_time": 32
+    },
+    {
+        "Subject": "Seni Budaya",
+        
+        
+        
+            "VII E"
+        
+        
+            "VII E"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII E",
+        "Assigned_time": 8
+    },
+    {
+        "Subject": "Seni Budaya",
+        
+        
+        
+            "VII F"
+        
+        
+            "VII F"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII F",
+        "Assigned_time": 24
+    },
+    {
+        "Subject": "Seni Budaya",
+        
+        
+        
+            "VII G"
+        
+        
+            "VII G"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII G",
+        "Assigned_time": 17
+    },
+    {
+        "Subject": "Seni Budaya",
+        
+        
+        
+            "VII H"
+        
+        
+            "VII H"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII H",
+        "Assigned_time": 29
+    },
+    {
+        "Subject": "Seni Budaya",
+        
+        
+        
+            "VII I"
+        
+        
+            "VII I"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII I",
+        "Assigned_time": 26
+    },
+    {
+        "Subject": "Seni Budaya",
+        
+        
+        
+            "VII J"
+        
+        
+            "VII J"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII J",
+        "Assigned_time": 3
+    },
+    {
+        "Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+        
+        
+        
+            "VII A"
+        
+        
+            "VII A"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII A",
+        "Assigned_time": 5
+    },
+    {
+        "Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+        
+        
+        
+            "VII B"
+        
+        
+            "VII B"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII B",
+        "Assigned_time": 27
+    },
+    {
+        "Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+        
+        
+        
+            "VII C"
+        
+        
+            "VII C"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII C",
+        "Assigned_time": 36
+    },
+    {
+        "Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+        
+        
+        
+            "VII D"
+        
+        
+            "VII D"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII D",
+        "Assigned_time": 24
+    },
+    {
+        "Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+        
+        
+        
+            "VII E"
+        
+        
+            "VII E"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII E",
+        "Assigned_time": 32
+    },
+    {
+        "Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+        
+        
+        
+            "VII F"
+        
+        
+            "VII F"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII F",
+        "Assigned_time": 2
+    },
+    {
+        "Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+        
+        
+        
+            "VII G"
+        
+        
+            "VII G"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII G",
+        "Assigned_time": 13
+    },
+    {
+        "Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+        
+        
+        
+            "VII H"
+        
+        
+            "VII H"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII H",
+        "Assigned_time": 18
+    },
+    {
+        "Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+        
+        
+        
+            "VII I"
+        
+        
+            "VII I"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII I",
+        "Assigned_time": 10
+    },
+    {
+        "Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+        
+        
+        
+            "VII J"
+        
+        
+            "VII J"
+        
+        "Length": "3",
+        "Assigned_classroom": "VII J",
+        "Assigned_time": 21
+    },
+    {
+        "Subject": "Prakarya",
+        
+        
+        
+            "VII A"
+        
+        
+            "VII A"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII A",
+        "Assigned_time": 24
+    },
+    {
+        "Subject": "Prakarya",
+        
+        
+        
+            "VII B"
+        
+        
+            "VII B"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII B",
+        "Assigned_time": 8
+    },
+    {
+        "Subject": "Prakarya",
+        
+        
+        
+            "VII C"
+        
+        
+            "VII C"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII C",
+        "Assigned_time": 3
+    },
+    {
+        "Subject": "Prakarya",
+        
+        
+        
+            "VII D"
+        
+        
+            "VII D"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII D",
+        "Assigned_time": 37
+    },
+    {
+        "Subject": "Prakarya",
+        
+        
+        
+            "VII E"
+        
+        
+            "VII E"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII E",
+        "Assigned_time": 18
+    },
+    {
+        "Subject": "Prakarya",
+        
+        
+        
+            "VII F"
+        
+        
+            "VII F"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII F",
+        "Assigned_time": 16
+    },
+    {
+        "Subject": "Prakarya",
+        
+        
+        
+            "VII G"
+        
+        
+            "VII G"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII G",
+        "Assigned_time": 20
+    },
+    {
+        "Subject": "Prakarya",
+        
+        
+        
+            "VII H"
+        
+        
+            "VII H"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII H",
+        "Assigned_time": 1
+    },
+    {
+        "Subject": "Prakarya",
+        
+        
+        
+            "VII I"
+        
+        
+            "VII I"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII I",
+        "Assigned_time": 34
+    },
+    {
+        "Subject": "Prakarya",
+        
+        
+        
+            "VII J"
+        
+        
+            "VII J"
+        
+        "Length": "2",
+        "Assigned_classroom": "VII J",
+        "Assigned_time": 32
+    },
+    {
+        "Subject": "Pendidikan Agama dan Budi Pekerti",
+        
+        
+        
+            "VIII A"
+        
+        
+            "VIII A"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII A",
+        "Assigned_time": 13
+    },
+    {
+        "Subject": "Pendidikan Agama dan Budi Pekerti",
+        
+        
+        
+            "VIII B"
+        
+        
+            "VIII B"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII B",
+        "Assigned_time": 21
+    },
+    {
+        "Subject": "Pendidikan Agama dan Budi Pekerti",
+        
+        
+        
+            "VIII C"
+        
+        
+            "VIII C"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII C",
+        "Assigned_time": 24
+    },
+    {
+        "Subject": "Pendidikan Agama dan Budi Pekerti",
+        
+        
+        
+            "VIII D"
+        
+        
+            "VIII D"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII D",
+        "Assigned_time": 18
+    },
+    {
+        "Subject": "Pendidikan Agama dan Budi Pekerti",
+        
+        
+        
+            "VIII E"
+        
+        
+            "VIII E"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII E",
+        "Assigned_time": 34
+    },
+    {
+        "Subject": "Pendidikan Agama dan Budi Pekerti",
+        
+        
+        
+            "VIII F"
+        
+        
+            "VIII F"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII F",
+        "Assigned_time": 29
+    },
+    {
+        "Subject": "Pendidikan Agama dan Budi Pekerti",
+        
+        
+        
+            "VIII G"
+        
+        
+            "VIII G"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII G",
+        "Assigned_time": 16
+    },
+    {
+        "Subject": "Pendidikan Agama dan Budi Pekerti",
+        
+        
+        
+            "VIII H"
+        
+        
+            "VIII H"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII H",
+        "Assigned_time": 0
+    },
+    {
+        "Subject": "Pendidikan Agama dan Budi Pekerti",
+        
+        
+        
+            "VIII I"
+        
+        
+            "VIII I"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII I",
+        "Assigned_time": 10
+    },
+    {
+        "Subject": "Pendidikan Agama dan Budi Pekerti",
+        
+        
+        
+            "VIII J"
+        
+        
+            "VIII J"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII J",
+        "Assigned_time": 4
+    },
+    {
+        "Subject": "PKN",
+        
+        
+        
+            "VIII A"
+        
+        
+            "VIII A"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII A",
+        "Assigned_time": 5
+    },
+    {
+        "Subject": "PKN",
+        
+        
+        
+            "VIII B"
+        
+        
+            "VIII B"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII B",
+        "Assigned_time": 11
+    },
+    {
+        "Subject": "PKN",
+        
+        
+        
+            "VIII C"
+        
+        
+            "VIII C"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII C",
+        "Assigned_time": 20
+    },
+    {
+        "Subject": "PKN",
+        
+        
+        
+            "VIII D"
+        
+        
+            "VIII D"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII D",
+        "Assigned_time": 35
+    },
+    {
+        "Subject": "PKN",
+        
+        
+        
+            "VIII E"
+        
+        
+            "VIII E"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII E",
+        "Assigned_time": 28
+    },
+    {
+        "Subject": "PKN",
+        
+        
+        
+            "VIII F"
+        
+        
+            "VIII F"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII F",
+        "Assigned_time": 13
+    },
+    {
+        "Subject": "PKN",
+        
+        
+        
+            "VIII G"
+        
+        
+            "VIII G"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII G",
+        "Assigned_time": 33
+    },
+    {
+        "Subject": "PKN",
+        
+        
+        
+            "VIII H"
+        
+        
+            "VIII H"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII H",
+        "Assigned_time": 16
+    },
+    {
+        "Subject": "PKN",
+        
+        
+        
+            "VIII I"
+        
+        
+            "VIII I"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII I",
+        "Assigned_time": 2
+    },
+    {
+        "Subject": "PKN",
+        
+        
+        
+            "VIII J"
+        
+        
+            "VIII J"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII J",
+        "Assigned_time": 24
+    },
+    {
+        "Subject": "Bahasa Indonesia 1",
+        
+        
+        
+            "VIII A"
+        
+        
+            "VIII A"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII A",
+        "Assigned_time": 32
+    },
+    {
+        "Subject": "Bahasa Indonesia 1",
+        
+        
+        
+            "VIII B"
+        
+        
+            "VIII B"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII B",
+        "Assigned_time": 8
+    },
+    {
+        "Subject": "Bahasa Indonesia 1",
+        
+        
+        
+            "VIII C"
+        
+        
+            "VIII C"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII C",
+        "Assigned_time": 34
+    },
+    {
+        "Subject": "Bahasa Indonesia 1",
+        
+        
+        
+            "VIII D"
+        
+        
+            "VIII D"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII D",
+        "Assigned_time": 13
+    },
+    {
+        "Subject": "Bahasa Indonesia 1",
+        
+        
+        
+            "VIII E"
+        
+        
+            "VIII E"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII E",
+        "Assigned_time": 11
+    },
+    {
+        "Subject": "Bahasa Indonesia 1",
+        
+        
+        
+            "VIII F"
+        
+        
+            "VIII F"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII F",
+        "Assigned_time": 32
+    },
+    {
+        "Subject": "Bahasa Indonesia 1",
+        
+        
+        
+            "VIII G"
+        
+        
+            "VIII G"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII G",
+        "Assigned_time": 36
+    },
+    {
+        "Subject": "Bahasa Indonesia 1",
+        
+        
+        
+            "VIII H"
+        
+        
+            "VIII H"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII H",
+        "Assigned_time": 32
+    },
+    {
+        "Subject": "Bahasa Indonesia 1",
+        
+        
+        
+            "VIII I"
+        
+        
+            "VIII I"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII I",
+        "Assigned_time": 16
+    },
+    {
+        "Subject": "Bahasa Indonesia 1",
+        
+        
+        
+            "VIII J"
+        
+        
+            "VIII J"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII J",
+        "Assigned_time": 27
+    },
+    {
+        "Subject": "Bahasa Indonesia 2",
+        
+        
+        
+            "VIII A"
+        
+        
+            "VIII A"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII A",
+        "Assigned_time": 24
+    },
+    {
+        "Subject": "Bahasa Indonesia 2",
+        
+        
+        
+            "VIII B"
+        
+        
+            "VIII B"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII B",
+        "Assigned_time": 2
+    },
+    {
+        "Subject": "Bahasa Indonesia 2",
+        
+        
+        
+            "VIII C"
+        
+        
+            "VIII C"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII C",
+        "Assigned_time": 8
+    },
+    {
+        "Subject": "Bahasa Indonesia 2",
+        
+        
+        
+            "VIII D"
+        
+        
+            "VIII D"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII D",
+        "Assigned_time": 32
+    },
+    {
+        "Subject": "Bahasa Indonesia 2",
+        
+        
+        
+            "VIII E"
+        
+        
+            "VIII E"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII E",
+        "Assigned_time": 21
+    },
+    {
+        "Subject": "Bahasa Indonesia 2",
+        
+        
+        
+            "VIII F"
+        
+        
+            "VIII F"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII F",
+        "Assigned_time": 8
+    },
+    {
+        "Subject": "Bahasa Indonesia 2",
+        
+        
+        
+            "VIII G"
+        
+        
+            "VIII G"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII G",
+        "Assigned_time": 29
+    },
+    {
+        "Subject": "Bahasa Indonesia 2",
+        
+        
+        
+            "VIII H"
+        
+        
+            "VIII H"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII H",
+        "Assigned_time": 5
+    },
+    {
+        "Subject": "Bahasa Indonesia 2",
+        
+        
+        
+            "VIII I"
+        
+        
+            "VIII I"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII I",
+        "Assigned_time": 19
+    },
+    {
+        "Subject": "Bahasa Indonesia 2",
+        
+        
+        
+            "VIII J"
+        
+        
+            "VIII J"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII J",
+        "Assigned_time": 0
+    },
+    {
+        "Subject": "Matematika 1",
+        
+        
+        
+            "VIII A"
+        
+        
+            "VIII A"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII A",
+        "Assigned_time": 8
+    },
+    {
+        "Subject": "Matematika 1",
+        
+        
+        
+            "VIII B"
+        
+        
+            "VIII B"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII B",
+        "Assigned_time": 34
+    },
+    {
+        "Subject": "Matematika 1",
+        
+        
+        
+            "VIII C"
+        
+        
+            "VIII C"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII C",
+        "Assigned_time": 29
+    },
+    {
+        "Subject": "Matematika 1",
+        
+        
+        
+            "VIII D"
+        
+        
+            "VIII D"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII D",
+        "Assigned_time": 26
+    },
+    {
+        "Subject": "Matematika 1",
+        
+        
+        
+            "VIII E"
+        
+        
+            "VIII E"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII E",
+        "Assigned_time": 24
+    },
+    {
+        "Subject": "Matematika 1",
+        
+        
+        
+            "VIII F"
+        
+        
+            "VIII F"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII F",
+        "Assigned_time": 21
+    },
+    {
+        "Subject": "Matematika 1",
+        
+        
+        
+            "VIII G"
+        
+        
+            "VIII G"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII G",
+        "Assigned_time": 0
+    },
+    {
+        "Subject": "Matematika 1",
+        
+        
+        
+            "VIII H"
+        
+        
+            "VIII H"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII H",
+        "Assigned_time": 24
+    },
+    {
+        "Subject": "Matematika 1",
+        
+        
+        
+            "VIII I"
+        
+        
+            "VIII I"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII I",
+        "Assigned_time": 5
+    },
+    {
+        "Subject": "Matematika 1",
+        
+        
+        
+            "VIII J"
+        
+        
+            "VIII J"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII J",
+        "Assigned_time": 16
+    },
+    {
+        "Subject": "Matematika 2",
+        
+        
+        
+            "VIII A"
+        
+        
+            "VIII A"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII A",
+        "Assigned_time": 16
+    },
+    {
+        "Subject": "Matematika 2",
+        
+        
+        
+            "VIII B"
+        
+        
+            "VIII B"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII B",
+        "Assigned_time": 32
+    },
+    {
+        "Subject": "Matematika 2",
+        
+        
+        
+            "VIII C"
+        
+        
+            "VIII C"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII C",
+        "Assigned_time": 16
+    },
+    {
+        "Subject": "Matematika 2",
+        
+        
+        
+            "VIII D"
+        
+        
+            "VIII D"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII D",
+        "Assigned_time": 11
+    },
+    {
+        "Subject": "Matematika 2",
+        
+        
+        
+            "VIII E"
+        
+        
+            "VIII E"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII E",
+        "Assigned_time": 14
+    },
+    {
+        "Subject": "Matematika 2",
+        
+        
+        
+            "VIII F"
+        
+        
+            "VIII F"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII F",
+        "Assigned_time": 19
+    },
+    {
+        "Subject": "Matematika 2",
+        
+        
+        
+            "VIII G"
+        
+        
+            "VIII G"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII G",
+        "Assigned_time": 3
+    },
+    {
+        "Subject": "Matematika 2",
+        
+        
+        
+            "VIII H"
+        
+        
+            "VIII H"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII H",
+        "Assigned_time": 12
+    },
+    {
+        "Subject": "Matematika 2",
+        
+        
+        
+            "VIII I"
+        
+        
+            "VIII I"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII I",
+        "Assigned_time": 24
+    },
+    {
+        "Subject": "Matematika 2",
+        
+        
+        
+            "VIII J"
+        
+        
+            "VIII J"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII J",
+        "Assigned_time": 37
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 1",
+        
+        
+        
+            "VIII A"
+        
+        
+            "VIII A"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII A",
+        "Assigned_time": 29
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 1",
+        
+        
+        
+            "VIII B"
+        
+        
+            "VIII B"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII B",
+        "Assigned_time": 16
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 1",
+        
+        
+        
+            "VIII C"
+        
+        
+            "VIII C"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII C",
+        "Assigned_time": 5
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 1",
+        
+        
+        
+            "VIII D"
+        
+        
+            "VIII D"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII D",
+        "Assigned_time": 8
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 1",
+        
+        
+        
+            "VIII E"
+        
+        
+            "VIII E"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII E",
+        "Assigned_time": 4
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 1",
+        
+        
+        
+            "VIII F"
+        
+        
+            "VIII F"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII F",
+        "Assigned_time": 4
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 1",
+        
+        
+        
+            "VIII G"
+        
+        
+            "VIII G"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII G",
+        "Assigned_time": 26
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 1",
+        
+        
+        
+            "VIII H"
+        
+        
+            "VIII H"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII H",
+        "Assigned_time": 19
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 1",
+        
+        
+        
+            "VIII I"
+        
+        
+            "VIII I"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII I",
+        "Assigned_time": 32
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 1",
+        
+        
+        
+            "VIII J"
+        
+        
+            "VIII J"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII J",
+        "Assigned_time": 19
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 2",
+        
+        
+        
+            "VIII A"
+        
+        
+            "VIII A"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII A",
+        "Assigned_time": 35
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 2",
+        
+        
+        
+            "VIII B"
+        
+        
+            "VIII B"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII B",
+        "Assigned_time": 19
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 2",
+        
+        
+        
+            "VIII C"
+        
+        
+            "VIII C"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII C",
+        "Assigned_time": 37
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 2",
+        
+        
+        
+            "VIII D"
+        
+        
+            "VIII D"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII D",
+        "Assigned_time": 24
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 2",
+        
+        
+        
+            "VIII E"
+        
+        
+            "VIII E"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII E",
+        "Assigned_time": 2
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 2",
+        
+        
+        
+            "VIII F"
+        
+        
+            "VIII F"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII F",
+        "Assigned_time": 11
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 2",
+        
+        
+        
+            "VIII G"
+        
+        
+            "VIII G"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII G",
+        "Assigned_time": 13
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 2",
+        
+        
+        
+            "VIII H"
+        
+        
+            "VIII H"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII H",
+        "Assigned_time": 3
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 2",
+        
+        
+        
+            "VIII I"
+        
+        
+            "VIII I"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII I",
+        "Assigned_time": 0
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 2",
+        
+        
+        
+            "VIII J"
+        
+        
+            "VIII J"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII J",
+        "Assigned_time": 22
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 1",
+        
+        
+        
+            "VIII A"
+        
+        
+            "VIII A"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII A",
+        "Assigned_time": 19
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 1",
+        
+        
+        
+            "VIII B"
+        
+        
+            "VIII B"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII B",
+        "Assigned_time": 6
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 1",
+        
+        
+        
+            "VIII C"
+        
+        
+            "VIII C"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII C",
+        "Assigned_time": 34
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 1",
+        
+        
+        
+            "VIII D"
+        
+        
+            "VIII D"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII D",
+        "Assigned_time": 5
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 1",
+        
+        
+        
+            "VIII E"
+        
+        
+            "VIII E"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII E",
+        "Assigned_time": 37
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 1",
+        
+        
+        
+            "VIII F"
+        
+        
+            "VIII F"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII F",
+        "Assigned_time": 0
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 1",
+        
+        
+        
+            "VIII G"
+        
+        
+            "VIII G"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII G",
+        "Assigned_time": 11
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 1",
+        
+        
+        
+            "VIII H"
+        
+        
+            "VIII H"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII H",
+        "Assigned_time": 26
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 1",
+        
+        
+        
+            "VIII I"
+        
+        
+            "VIII I"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII I",
+        "Assigned_time": 29
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 1",
+        
+        
+        
+            "VIII J"
+        
+        
+            "VIII J"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII J",
+        "Assigned_time": 3
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 2",
+        
+        
+        
+            "VIII A"
+        
+        
+            "VIII A"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII A",
+        "Assigned_time": 27
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 2",
+        
+        
+        
+            "VIII B"
+        
+        
+            "VIII B"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII B",
+        "Assigned_time": 24
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 2",
+        
+        
+        
+            "VIII C"
+        
+        
+            "VIII C"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII C",
+        "Assigned_time": 32
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 2",
+        
+        
+        
+            "VIII D"
+        
+        
+            "VIII D"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII D",
+        "Assigned_time": 2
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 2",
+        
+        
+        
+            "VIII E"
+        
+        
+            "VIII E"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII E",
+        "Assigned_time": 16
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 2",
+        
+        
+        
+            "VIII F"
+        
+        
+            "VIII F"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII F",
+        "Assigned_time": 27
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 2",
+        
+        
+        
+            "VIII G"
+        
+        
+            "VIII G"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII G",
+        "Assigned_time": 22
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 2",
+        
+        
+        
+            "VIII H"
+        
+        
+            "VIII H"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII H",
+        "Assigned_time": 14
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 2",
+        
+        
+        
+            "VIII I"
+        
+        
+            "VIII I"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII I",
+        "Assigned_time": 8
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 2",
+        
+        
+        
+            "VIII J"
+        
+        
+            "VIII J"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII J",
+        "Assigned_time": 9
+    },
+    {
+        "Subject": "Bahasa Inggris 1",
+        
+        
+        
+            "VIII A"
+        
+        
+            "VIII A"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII A",
+        "Assigned_time": 11
+    },
+    {
+        "Subject": "Bahasa Inggris 1",
+        
+        
+        
+            "VIII B"
+        
+        
+            "VIII B"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII B",
+        "Assigned_time": 0
+    },
+    {
+        "Subject": "Bahasa Inggris 1",
+        
+        
+        
+            "VIII C"
+        
+        
+            "VIII C"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII C",
+        "Assigned_time": 3
+    },
+    {
+        "Subject": "Bahasa Inggris 1",
+        
+        
+        
+            "VIII D"
+        
+        
+            "VIII D"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII D",
+        "Assigned_time": 16
+    },
+    {
+        "Subject": "Bahasa Inggris 1",
+        
+        
+        
+            "VIII E"
+        
+        
+            "VIII E"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII E",
+        "Assigned_time": 27
+    },
+    {
+        "Subject": "Bahasa Inggris 1",
+        
+        
+        
+            "VIII F"
+        
+        
+            "VIII F"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII F",
+        "Assigned_time": 35
+    },
+    {
+        "Subject": "Bahasa Inggris 1",
+        
+        
+        
+            "VIII G"
+        
+        
+            "VIII G"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII G",
+        "Assigned_time": 8
+    },
+    {
+        "Subject": "Bahasa Inggris 1",
+        
+        
+        
+            "VIII H"
+        
+        
+            "VIII H"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII H",
+        "Assigned_time": 12
+    },
+    {
+        "Subject": "Bahasa Inggris 1",
+        
+        
+        
+            "VIII I"
+        
+        
+            "VIII I"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII I",
+        "Assigned_time": 37
+    },
+    {
+        "Subject": "Bahasa Inggris 1",
+        
+        
+        
+            "VIII J"
+        
+        
+            "VIII J"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII J",
+        "Assigned_time": 32
+    },
+    {
+        "Subject": "Bahasa Inggris 2",
+        
+        
+        
+            "VIII A"
+        
+        
+            "VIII A"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII A",
+        "Assigned_time": 5
+    },
+    {
+        "Subject": "Bahasa Inggris 2",
+        
+        
+        
+            "VIII B"
+        
+        
+            "VIII B"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII B",
+        "Assigned_time": 37
+    },
+    {
+        "Subject": "Bahasa Inggris 2",
+        
+        
+        
+            "VIII C"
+        
+        
+            "VIII C"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII C",
+        "Assigned_time": 18
+    },
+    {
+        "Subject": "Bahasa Inggris 2",
+        
+        
+        
+            "VIII D"
+        
+        
+            "VIII D"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII D",
+        "Assigned_time": 0
+    },
+    {
+        "Subject": "Bahasa Inggris 2",
+        
+        
+        
+            "VIII E"
+        
+        
+            "VIII E"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII E",
+        "Assigned_time": 0
+    },
+    {
+        "Subject": "Bahasa Inggris 2",
+        
+        
+        
+            "VIII F"
+        
+        
+            "VIII F"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII F",
+        "Assigned_time": 2
+    },
+    {
+        "Subject": "Bahasa Inggris 2",
+        
+        
+        
+            "VIII G"
+        
+        
+            "VIII G"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII G",
+        "Assigned_time": 24
+    },
+    {
+        "Subject": "Bahasa Inggris 2",
+        
+        
+        
+            "VIII H"
+        
+        
+            "VIII H"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII H",
+        "Assigned_time": 29
+    },
+    {
+        "Subject": "Bahasa Inggris 2",
+        
+        
+        
+            "VIII I"
+        
+        
+            "VIII I"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII I",
+        "Assigned_time": 22
+    },
+    {
+        "Subject": "Bahasa Inggris 2",
+        
+        
+        
+            "VIII J"
+        
+        
+            "VIII J"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII J",
+        "Assigned_time": 14
+    },
+    {
+        "Subject": "Seni Budaya",
+        
+        
+        
+            "VIII A"
+        
+        
+            "VIII A"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII A",
+        "Assigned_time": 0
+    },
+    {
+        "Subject": "Seni Budaya",
+        
+        
+        
+            "VIII B"
+        
+        
+            "VIII B"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII B",
+        "Assigned_time": 29
+    },
+    {
+        "Subject": "Seni Budaya",
+        
+        
+        
+            "VIII C"
+        
+        
+            "VIII C"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII C",
+        "Assigned_time": 11
+    },
+    {
+        "Subject": "Seni Budaya",
+        
+        
+        
+            "VIII D"
+        
+        
+            "VIII D"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII D",
+        "Assigned_time": 21
+    },
+    {
+        "Subject": "Seni Budaya",
+        
+        
+        
+            "VIII E"
+        
+        
+            "VIII E"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII E",
+        "Assigned_time": 18
+    },
+    {
+        "Subject": "Seni Budaya",
+        
+        
+        
+            "VIII F"
+        
+        
+            "VIII F"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII F",
+        "Assigned_time": 24
+    },
+    {
+        "Subject": "Seni Budaya",
+        
+        
+        
+            "VIII G"
+        
+        
+            "VIII G"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII G",
+        "Assigned_time": 5
+    },
+    {
+        "Subject": "Seni Budaya",
+        
+        
+        
+            "VIII H"
+        
+        
+            "VIII H"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII H",
+        "Assigned_time": 8
+    },
+    {
+        "Subject": "Seni Budaya",
+        
+        
+        
+            "VIII I"
+        
+        
+            "VIII I"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII I",
+        "Assigned_time": 27
+    },
+    {
+        "Subject": "Seni Budaya",
+        
+        
+        
+            "VIII J"
+        
+        
+            "VIII J"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII J",
+        "Assigned_time": 34
+    },
+    {
+        "Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+        
+        
+        
+            "VIII A"
+        
+        
+            "VIII A"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII A",
+        "Assigned_time": 4
+    },
+    {
+        "Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+        
+        
+        
+            "VIII B"
+        
+        
+            "VIII B"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII B",
+        "Assigned_time": 26
+    },
+    {
+        "Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+        
+        
+        
+            "VIII C"
+        
+        
+            "VIII C"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII C",
+        "Assigned_time": 0
+    },
+    {
+        "Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+        
+        
+        
+            "VIII D"
+        
+        
+            "VIII D"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII D",
+        "Assigned_time": 29
+    },
+    {
+        "Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+        
+        
+        
+            "VIII E"
+        
+        
+            "VIII E"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII E",
+        "Assigned_time": 8
+    },
+    {
+        "Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+        
+        
+        
+            "VIII F"
+        
+        
+            "VIII F"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII F",
+        "Assigned_time": 16
+    },
+    {
+        "Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+        
+        
+        
+            "VIII G"
+        
+        
+            "VIII G"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII G",
+        "Assigned_time": 19
+    },
+    {
+        "Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+        
+        
+        
+            "VIII H"
+        
+        
+            "VIII H"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII H",
+        "Assigned_time": 35
+    },
+    {
+        "Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+        
+        
+        
+            "VIII I"
+        
+        
+            "VIII I"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII I",
+        "Assigned_time": 13
+    },
+    {
+        "Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+        
+        
+        
+            "VIII J"
+        
+        
+            "VIII J"
+        
+        "Length": "3",
+        "Assigned_classroom": "VIII J",
+        "Assigned_time": 11
+    },
+    {
+        "Subject": "Prakarya",
+        
+        
+        
+            "VIII A"
+        
+        
+            "VIII A"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII A",
+        "Assigned_time": 37
+    },
+    {
+        "Subject": "Prakarya",
+        
+        
+        
+            "VIII B"
+        
+        
+            "VIII B"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII B",
+        "Assigned_time": 4
+    },
+    {
+        "Subject": "Prakarya",
+        
+        
+        
+            "VIII C"
+        
+        
+            "VIII C"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII C",
+        "Assigned_time": 27
+    },
+    {
+        "Subject": "Prakarya",
+        
+        
+        
+            "VIII D"
+        
+        
+            "VIII D"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII D",
+        "Assigned_time": 17
+    },
+    {
+        "Subject": "Prakarya",
+        
+        
+        
+            "VIII E"
+        
+        
+            "VIII E"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII E",
+        "Assigned_time": 32
+    },
+    {
+        "Subject": "Prakarya",
+        
+        
+        
+            "VIII F"
+        
+        
+            "VIII F"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII F",
+        "Assigned_time": 2
+    },
+    {
+        "Subject": "Prakarya",
+        
+        
+        
+            "VIII G"
+        
+        
+            "VIII G"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII G",
+        "Assigned_time": 8
+    },
+    {
+        "Subject": "Prakarya",
+        
+        
+        
+            "VIII H"
+        
+        
+            "VIII H"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII H",
+        "Assigned_time": 10
+    },
+    {
+        "Subject": "Prakarya",
+        
+        
+        
+            "VIII I"
+        
+        
+            "VIII I"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII I",
+        "Assigned_time": 35
+    },
+    {
+        "Subject": "Prakarya",
+        
+        
+        
+            "VIII J"
+        
+        
+            "VIII J"
+        
+        "Length": "2",
+        "Assigned_classroom": "VIII J",
+        "Assigned_time": 30
+    },
+    {
+        "Subject": "Pendidikan Agama dan Budi Pekerti",
+        
+        
+        
+            "IX A"
+        
+        
+            "IX A"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX A",
+        "Assigned_time": 10
+    },
+    {
+        "Subject": "Pendidikan Agama dan Budi Pekerti",
+        
+        
+        
+            "IX B"
+        
+        
+            "IX B"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX B",
+        "Assigned_time": 32
+    },
+    {
+        "Subject": "Pendidikan Agama dan Budi Pekerti",
+        
+        
+        
+            "IX C"
+        
+        
+            "IX C"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX C",
+        "Assigned_time": 13
+    },
+    {
+        "Subject": "Pendidikan Agama dan Budi Pekerti",
+        
+        
+        
+            "IX D"
+        
+        
+            "IX D"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX D",
+        "Assigned_time": 29
+    },
+    {
+        "Subject": "Pendidikan Agama dan Budi Pekerti",
+        
+        
+        
+            "IX E"
+        
+        
+            "IX E"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX E",
+        "Assigned_time": 2
+    },
+    {
+        "Subject": "Pendidikan Agama dan Budi Pekerti",
+        
+        
+        
+            "IX F"
+        
+        
+            "IX F"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX F",
+        "Assigned_time": 21
+    },
+    {
+        "Subject": "Pendidikan Agama dan Budi Pekerti",
+        
+        
+        
+            "IX G"
+        
+        
+            "IX G"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX G",
+        "Assigned_time": 35
+    },
+    {
+        "Subject": "Pendidikan Agama dan Budi Pekerti",
+        
+        
+        
+            "IX H"
+        
+        
+            "IX H"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX H",
+        "Assigned_time": 26
+    },
+    {
+        "Subject": "Pendidikan Agama dan Budi Pekerti",
+        
+        
+        
+            "IX I"
+        
+        
+            "IX I"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX I",
+        "Assigned_time": 0
+    },
+    {
+        "Subject": "Pendidikan Agama dan Budi Pekerti",
+        
+        
+        
+            "IX J"
+        
+        
+            "IX J"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX J",
+        "Assigned_time": 16
+    },
+    {
+        "Subject": "PKN",
+        
+        
+        
+            "IX A"
+        
+        
+            "IX A"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX A",
+        "Assigned_time": 21
+    },
+    {
+        "Subject": "PKN",
+        
+        
+        
+            "IX B"
+        
+        
+            "IX B"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX B",
+        "Assigned_time": 16
+    },
+    {
+        "Subject": "PKN",
+        
+        
+        
+            "IX C"
+        
+        
+            "IX C"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX C",
+        "Assigned_time": 2
+    },
+    {
+        "Subject": "PKN",
+        
+        
+        
+            "IX D"
+        
+        
+            "IX D"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX D",
+        "Assigned_time": 13
+    },
+    {
+        "Subject": "PKN",
+        
+        
+        
+            "IX E"
+        
+        
+            "IX E"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX E",
+        "Assigned_time": 26
+    },
+    {
+        "Subject": "PKN",
+        
+        
+        
+            "IX F"
+        
+        
+            "IX F"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX F",
+        "Assigned_time": 10
+    },
+    {
+        "Subject": "PKN",
+        
+        
+        
+            "IX G"
+        
+        
+            "IX G"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX G",
+        "Assigned_time": 32
+    },
+    {
+        "Subject": "PKN",
+        
+        
+        
+            "IX H"
+        
+        
+            "IX H"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX H",
+        "Assigned_time": 29
+    },
+    {
+        "Subject": "PKN",
+        
+        
+        
+            "IX I"
+        
+        
+            "IX I"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX I",
+        "Assigned_time": 5
+    },
+    {
+        "Subject": "PKN",
+        
+        
+        
+            "IX J"
+        
+        
+            "IX J"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX J",
+        "Assigned_time": 0
+    },
+    {
+        "Subject": "Bahasa Indonesia 1",
+        
+        
+        
+            "IX A"
+        
+        
+            "IX A"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX A",
+        "Assigned_time": 2
+    },
+    {
+        "Subject": "Bahasa Indonesia 1",
+        
+        
+        
+            "IX B"
+        
+        
+            "IX B"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX B",
+        "Assigned_time": 5
+    },
+    {
+        "Subject": "Bahasa Indonesia 1",
+        
+        
+        
+            "IX C"
+        
+        
+            "IX C"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX C",
+        "Assigned_time": 27
+    },
+    {
+        "Subject": "Bahasa Indonesia 1",
+        
+        
+        
+            "IX D"
+        
+        
+            "IX D"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX D",
+        "Assigned_time": 32
+    },
+    {
+        "Subject": "Bahasa Indonesia 1",
+        
+        
+        
+            "IX E"
+        
+        
+            "IX E"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX E",
+        "Assigned_time": 10
+    },
+    {
+        "Subject": "Bahasa Indonesia 1",
+        
+        
+        
+            "IX F"
+        
+        
+            "IX F"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX F",
+        "Assigned_time": 29
+    },
+    {
+        "Subject": "Bahasa Indonesia 1",
+        
+        
+        
+            "IX G"
+        
+        
+            "IX G"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX G",
+        "Assigned_time": 28
+    },
+    {
+        "Subject": "Bahasa Indonesia 1",
+        
+        
+        
+            "IX H"
+        
+        
+            "IX H"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX H",
+        "Assigned_time": 8
+    },
+    {
+        "Subject": "Bahasa Indonesia 1",
+        
+        
+        
+            "IX I"
+        
+        
+            "IX I"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX I",
+        "Assigned_time": 24
+    },
+    {
+        "Subject": "Bahasa Indonesia 1",
+        
+        
+        
+            "IX J"
+        
+        
+            "IX J"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX J",
+        "Assigned_time": 21
+    },
+    {
+        "Subject": "Bahasa Indonesia 2",
+        
+        
+        
+            "IX A"
+        
+        
+            "IX A"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX A",
+        "Assigned_time": 32
+    },
+    {
+        "Subject": "Bahasa Indonesia 2",
+        
+        
+        
+            "IX B"
+        
+        
+            "IX B"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX B",
+        "Assigned_time": 13
+    },
+    {
+        "Subject": "Bahasa Indonesia 2",
+        
+        
+        
+            "IX C"
+        
+        
+            "IX C"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX C",
+        "Assigned_time": 5
+    },
+    {
+        "Subject": "Bahasa Indonesia 2",
+        
+        
+        
+            "IX D"
+        
+        
+            "IX D"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX D",
+        "Assigned_time": 16
+    },
+    {
+        "Subject": "Bahasa Indonesia 2",
+        
+        
+        
+            "IX E"
+        
+        
+            "IX E"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX E",
+        "Assigned_time": 5
+    },
+    {
+        "Subject": "Bahasa Indonesia 2",
+        
+        
+        
+            "IX F"
+        
+        
+            "IX F"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX F",
+        "Assigned_time": 18
+    },
+    {
+        "Subject": "Bahasa Indonesia 2",
+        
+        
+        
+            "IX G"
+        
+        
+            "IX G"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX G",
+        "Assigned_time": 5
+    },
+    {
+        "Subject": "Bahasa Indonesia 2",
+        
+        
+        
+            "IX H"
+        
+        
+            "IX H"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX H",
+        "Assigned_time": 0
+    },
+    {
+        "Subject": "Bahasa Indonesia 2",
+        
+        
+        
+            "IX I"
+        
+        
+            "IX I"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX I",
+        "Assigned_time": 27
+    },
+    {
+        "Subject": "Bahasa Indonesia 2",
+        
+        
+        
+            "IX J"
+        
+        
+            "IX J"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX J",
+        "Assigned_time": 34
+    },
+    {
+        "Subject": "Matematika 1",
+        
+        
+        
+            "IX A"
+        
+        
+            "IX A"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX A",
+        "Assigned_time": 26
+    },
+    {
+        "Subject": "Matematika 1",
+        
+        
+        
+            "IX B"
+        
+        
+            "IX B"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX B",
+        "Assigned_time": 2
+    },
+    {
+        "Subject": "Matematika 1",
+        
+        
+        
+            "IX C"
+        
+        
+            "IX C"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX C",
+        "Assigned_time": 29
+    },
+    {
+        "Subject": "Matematika 1",
+        
+        
+        
+            "IX D"
+        
+        
+            "IX D"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX D",
+        "Assigned_time": 4
+    },
+    {
+        "Subject": "Matematika 1",
+        
+        
+        
+            "IX E"
+        
+        
+            "IX E"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX E",
+        "Assigned_time": 16
+    },
+    {
+        "Subject": "Matematika 1",
+        
+        
+        
+            "IX F"
+        
+        
+            "IX F"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX F",
+        "Assigned_time": 24
+    },
+    {
+        "Subject": "Matematika 1",
+        
+        
+        
+            "IX G"
+        
+        
+            "IX G"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX G",
+        "Assigned_time": 21
+    },
+    {
+        "Subject": "Matematika 1",
+        
+        
+        
+            "IX H"
+        
+        
+            "IX H"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX H",
+        "Assigned_time": 32
+    },
+    {
+        "Subject": "Matematika 1",
+        
+        
+        
+            "IX I"
+        
+        
+            "IX I"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX I",
+        "Assigned_time": 13
+    },
+    {
+        "Subject": "Matematika 1",
+        
+        
+        
+            "IX J"
+        
+        
+            "IX J"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX J",
+        "Assigned_time": 10
+    },
+    {
+        "Subject": "Matematika 2",
+        
+        
+        
+            "IX A"
+        
+        
+            "IX A"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX A",
+        "Assigned_time": 16
+    },
+    {
+        "Subject": "Matematika 2",
+        
+        
+        
+            "IX B"
+        
+        
+            "IX B"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX B",
+        "Assigned_time": 37
+    },
+    {
+        "Subject": "Matematika 2",
+        
+        
+        
+            "IX C"
+        
+        
+            "IX C"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX C",
+        "Assigned_time": 0
+    },
+    {
+        "Subject": "Matematika 2",
+        
+        
+        
+            "IX D"
+        
+        
+            "IX D"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX D",
+        "Assigned_time": 35
+    },
+    {
+        "Subject": "Matematika 2",
+        
+        
+        
+            "IX E"
+        
+        
+            "IX E"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX E",
+        "Assigned_time": 19
+    },
+    {
+        "Subject": "Matematika 2",
+        
+        
+        
+            "IX F"
+        
+        
+            "IX F"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX F",
+        "Assigned_time": 16
+    },
+    {
+        "Subject": "Matematika 2",
+        
+        
+        
+            "IX G"
+        
+        
+            "IX G"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX G",
+        "Assigned_time": 26
+    },
+    {
+        "Subject": "Matematika 2",
+        
+        
+        
+            "IX H"
+        
+        
+            "IX H"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX H",
+        "Assigned_time": 11
+    },
+    {
+        "Subject": "Matematika 2",
+        
+        
+        
+            "IX I"
+        
+        
+            "IX I"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX I",
+        "Assigned_time": 34
+    },
+    {
+        "Subject": "Matematika 2",
+        
+        
+        
+            "IX J"
+        
+        
+            "IX J"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX J",
+        "Assigned_time": 8
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 1",
+        
+        
+        
+            "IX A"
+        
+        
+            "IX A"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX A",
+        "Assigned_time": 35
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 1",
+        
+        
+        
+            "IX B"
+        
+        
+            "IX B"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX B",
+        "Assigned_time": 24
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 1",
+        
+        
+        
+            "IX C"
+        
+        
+            "IX C"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX C",
+        "Assigned_time": 10
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 1",
+        
+        
+        
+            "IX D"
+        
+        
+            "IX D"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX D",
+        "Assigned_time": 19
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 1",
+        
+        
+        
+            "IX E"
+        
+        
+            "IX E"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX E",
+        "Assigned_time": 32
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 1",
+        
+        
+        
+            "IX F"
+        
+        
+            "IX F"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX F",
+        "Assigned_time": 34
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 1",
+        
+        
+        
+            "IX G"
+        
+        
+            "IX G"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX G",
+        "Assigned_time": 13
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 1",
+        
+        
+        
+            "IX H"
+        
+        
+            "IX H"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX H",
+        "Assigned_time": 16
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 1",
+        
+        
+        
+            "IX I"
+        
+        
+            "IX I"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX I",
+        "Assigned_time": 21
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 1",
+        
+        
+        
+            "IX J"
+        
+        
+            "IX J"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX J",
+        "Assigned_time": 3
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 2",
+        
+        
+        
+            "IX A"
+        
+        
+            "IX A"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX A",
+        "Assigned_time": 6
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 2",
+        
+        
+        
+            "IX B"
+        
+        
+            "IX B"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX B",
+        "Assigned_time": 35
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 2",
+        
+        
+        
+            "IX C"
+        
+        
+            "IX C"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX C",
+        "Assigned_time": 37
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 2",
+        
+        
+        
+            "IX D"
+        
+        
+            "IX D"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX D",
+        "Assigned_time": 37
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 2",
+        
+        
+        
+            "IX E"
+        
+        
+            "IX E"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX E",
+        "Assigned_time": 8
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 2",
+        
+        
+        
+            "IX F"
+        
+        
+            "IX F"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX F",
+        "Assigned_time": 0
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 2",
+        
+        
+        
+            "IX G"
+        
+        
+            "IX G"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX G",
+        "Assigned_time": 8
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 2",
+        
+        
+        
+            "IX H"
+        
+        
+            "IX H"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX H",
+        "Assigned_time": 37
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 2",
+        
+        
+        
+            "IX I"
+        
+        
+            "IX I"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX I",
+        "Assigned_time": 8
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Alam 2",
+        
+        
+        
+            "IX J"
+        
+        
+            "IX J"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX J",
+        "Assigned_time": 28
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 1",
+        
+        
+        
+            "IX A"
+        
+        
+            "IX A"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX A",
+        "Assigned_time": 5
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 1",
+        
+        
+        
+            "IX B"
+        
+        
+            "IX B"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX B",
+        "Assigned_time": 0
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 1",
+        
+        
+        
+            "IX C"
+        
+        
+            "IX C"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX C",
+        "Assigned_time": 16
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 1",
+        
+        
+        
+            "IX D"
+        
+        
+            "IX D"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX D",
+        "Assigned_time": 25
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 1",
+        
+        
+        
+            "IX E"
+        
+        
+            "IX E"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX E",
+        "Assigned_time": 24
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 1",
+        
+        
+        
+            "IX F"
+        
+        
+            "IX F"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX F",
+        "Assigned_time": 2
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 1",
+        
+        
+        
+            "IX G"
+        
+        
+            "IX G"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX G",
+        "Assigned_time": 34
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 1",
+        
+        
+        
+            "IX H"
+        
+        
+            "IX H"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX H",
+        "Assigned_time": 13
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 1",
+        
+        
+        
+            "IX I"
+        
+        
+            "IX I"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX I",
+        "Assigned_time": 19
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 1",
+        
+        
+        
+            "IX J"
+        
+        
+            "IX J"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX J",
+        "Assigned_time": 19
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 2",
+        
+        
+        
+            "IX A"
+        
+        
+            "IX A"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX A",
+        "Assigned_time": 24
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 2",
+        
+        
+        
+            "IX B"
+        
+        
+            "IX B"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX B",
+        "Assigned_time": 29
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 2",
+        
+        
+        
+            "IX C"
+        
+        
+            "IX C"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX C",
+        "Assigned_time": 20
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 2",
+        
+        
+        
+            "IX D"
+        
+        
+            "IX D"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX D",
+        "Assigned_time": 27
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 2",
+        
+        
+        
+            "IX E"
+        
+        
+            "IX E"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX E",
+        "Assigned_time": 37
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 2",
+        
+        
+        
+            "IX F"
+        
+        
+            "IX F"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX F",
+        "Assigned_time": 8
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 2",
+        
+        
+        
+            "IX G"
+        
+        
+            "IX G"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX G",
+        "Assigned_time": 10
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 2",
+        
+        
+        
+            "IX H"
+        
+        
+            "IX H"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX H",
+        "Assigned_time": 24
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 2",
+        
+        
+        
+            "IX I"
+        
+        
+            "IX I"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX I",
+        "Assigned_time": 30
+    },
+    {
+        "Subject": "Ilmu Pengetahuan Sosial 2",
+        
+        
+        
+            "IX J"
+        
+        
+            "IX J"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX J",
+        "Assigned_time": 32
+    },
+    {
+        "Subject": "Bahasa Inggris 1",
+        
+        
+        
+            "IX A"
+        
+        
+            "IX A"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX A",
+        "Assigned_time": 0
+    },
+    {
+        "Subject": "Bahasa Inggris 1",
+        
+        
+        
+            "IX B"
+        
+        
+            "IX B"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX B",
+        "Assigned_time": 19
+    },
+    {
+        "Subject": "Bahasa Inggris 1",
+        
+        
+        
+            "IX C"
+        
+        
+            "IX C"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX C",
+        "Assigned_time": 35
+    },
+    {
+        "Subject": "Bahasa Inggris 1",
+        
+        
+        
+            "IX D"
+        
+        
+            "IX D"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX D",
+        "Assigned_time": 11
+    },
+    {
+        "Subject": "Bahasa Inggris 1",
+        
+        
+        
+            "IX E"
+        
+        
+            "IX E"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX E",
+        "Assigned_time": 13
+    },
+    {
+        "Subject": "Bahasa Inggris 1",
+        
+        
+        
+            "IX F"
+        
+        
+            "IX F"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX F",
+        "Assigned_time": 27
+    },
+    {
+        "Subject": "Bahasa Inggris 1",
+        
+        
+        
+            "IX G"
+        
+        
+            "IX G"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX G",
+        "Assigned_time": 24
+    },
+    {
+        "Subject": "Bahasa Inggris 1",
+        
+        
+        
+            "IX H"
+        
+        
+            "IX H"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX H",
+        "Assigned_time": 19
+    },
+    {
+        "Subject": "Bahasa Inggris 1",
+        
+        
+        
+            "IX I"
+        
+        
+            "IX I"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX I",
+        "Assigned_time": 3
+    },
+    {
+        "Subject": "Bahasa Inggris 1",
+        
+        
+        
+            "IX J"
+        
+        
+            "IX J"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX J",
+        "Assigned_time": 30
+    },
+    {
+        "Subject": "Bahasa Inggris 2",
+        
+        
+        
+            "IX A"
+        
+        
+            "IX A"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX A",
+        "Assigned_time": 9
+    },
+    {
+        "Subject": "Bahasa Inggris 2",
+        
+        
+        
+            "IX B"
+        
+        
+            "IX B"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX B",
+        "Assigned_time": 8
+    },
+    {
+        "Subject": "Bahasa Inggris 2",
+        
+        
+        
+            "IX C"
+        
+        
+            "IX C"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX C",
+        "Assigned_time": 18
+    },
+    {
+        "Subject": "Bahasa Inggris 2",
+        
+        
+        
+            "IX D"
+        
+        
+            "IX D"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX D",
+        "Assigned_time": 22
+    },
+    {
+        "Subject": "Bahasa Inggris 2",
+        
+        
+        
+            "IX E"
+        
+        
+            "IX E"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX E",
+        "Assigned_time": 20
+    },
+    {
+        "Subject": "Bahasa Inggris 2",
+        
+        
+        
+            "IX F"
+        
+        
+            "IX F"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX F",
+        "Assigned_time": 37
+    },
+    {
+        "Subject": "Bahasa Inggris 2",
+        
+        
+        
+            "IX G"
+        
+        
+            "IX G"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX G",
+        "Assigned_time": 19
+    },
+    {
+        "Subject": "Bahasa Inggris 2",
+        
+        
+        
+            "IX H"
+        
+        
+            "IX H"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX H",
+        "Assigned_time": 14
+    },
+    {
+        "Subject": "Bahasa Inggris 2",
+        
+        
+        
+            "IX I"
+        
+        
+            "IX I"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX I",
+        "Assigned_time": 32
+    },
+    {
+        "Subject": "Bahasa Inggris 2",
+        
+        
+        
+            "IX J"
+        
+        
+            "IX J"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX J",
+        "Assigned_time": 6
+    },
+    {
+        "Subject": "Seni Budaya",
+        
+        
+        
+            "IX A"
+        
+        
+            "IX A"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX A",
+        "Assigned_time": 18
+    },
+    {
+        "Subject": "Seni Budaya",
+        
+        
+        
+            "IX B"
+        
+        
+            "IX B"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX B",
+        "Assigned_time": 10
+    },
+    {
+        "Subject": "Seni Budaya",
+        
+        
+        
+            "IX C"
+        
+        
+            "IX C"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX C",
+        "Assigned_time": 32
+    },
+    {
+        "Subject": "Seni Budaya",
+        
+        
+        
+            "IX D"
+        
+        
+            "IX D"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX D",
+        "Assigned_time": 0
+    },
+    {
+        "Subject": "Seni Budaya",
+        
+        
+        
+            "IX E"
+        
+        
+            "IX E"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX E",
+        "Assigned_time": 29
+    },
+    {
+        "Subject": "Seni Budaya",
+        
+        
+        
+            "IX F"
+        
+        
+            "IX F"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX F",
+        "Assigned_time": 13
+    },
+    {
+        "Subject": "Seni Budaya",
+        
+        
+        
+            "IX G"
+        
+        
+            "IX G"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX G",
+        "Assigned_time": 2
+    },
+    {
+        "Subject": "Seni Budaya",
+        
+        
+        
+            "IX H"
+        
+        
+            "IX H"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX H",
+        "Assigned_time": 21
+    },
+    {
+        "Subject": "Seni Budaya",
+        
+        
+        
+            "IX I"
+        
+        
+            "IX I"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX I",
+        "Assigned_time": 16
+    },
+    {
+        "Subject": "Seni Budaya",
+        
+        
+        
+            "IX J"
+        
+        
+            "IX J"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX J",
+        "Assigned_time": 25
+    },
+    {
+        "Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+        
+        
+        
+            "IX A"
+        
+        
+            "IX A"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX A",
+        "Assigned_time": 29
+    },
+    {
+        "Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+        
+        
+        
+            "IX B"
+        
+        
+            "IX B"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX B",
+        "Assigned_time": 21
+    },
+    {
+        "Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+        
+        
+        
+            "IX C"
+        
+        
+            "IX C"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX C",
+        "Assigned_time": 24
+    },
+    {
+        "Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+        
+        
+        
+            "IX D"
+        
+        
+            "IX D"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX D",
+        "Assigned_time": 8
+    },
+    {
+        "Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+        
+        
+        
+            "IX E"
+        
+        
+            "IX E"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX E",
+        "Assigned_time": 0
+    },
+    {
+        "Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+        
+        
+        
+            "IX F"
+        
+        
+            "IX F"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX F",
+        "Assigned_time": 32
+    },
+    {
+        "Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+        
+        
+        
+            "IX G"
+        
+        
+            "IX G"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX G",
+        "Assigned_time": 16
+    },
+    {
+        "Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+        
+        
+        
+            "IX H"
+        
+        
+            "IX H"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX H",
+        "Assigned_time": 4
+    },
+    {
+        "Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+        
+        
+        
+            "IX I"
+        
+        
+            "IX I"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX I",
+        "Assigned_time": 35
+    },
+    {
+        "Subject": "Pendidikan Jasmani, Olah Raga, dan Kesehatan",
+        
+        
+        
+            "IX J"
+        
+        
+            "IX J"
+        
+        "Length": "3",
+        "Assigned_classroom": "IX J",
+        "Assigned_time": 13
+    },
+    {
+        "Subject": "Prakarya",
+        
+        
+        
+            "IX A"
+        
+        
+            "IX A"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX A",
+        "Assigned_time": 13
+    },
+    {
+        "Subject": "Prakarya",
+        
+        
+        
+            "IX B"
+        
+        
+            "IX B"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX B",
+        "Assigned_time": 27
+    },
+    {
+        "Subject": "Prakarya",
+        
+        
+        
+            "IX C"
+        
+        
+            "IX C"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX C",
+        "Assigned_time": 8
+    },
+    {
+        "Subject": "Prakarya",
+        
+        
+        
+            "IX D"
+        
+        
+            "IX D"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX D",
+        "Assigned_time": 24
+    },
+    {
+        "Subject": "Prakarya",
+        
+        
+        
+            "IX E"
+        
+        
+            "IX E"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX E",
+        "Assigned_time": 20
+    },
+    {
+        "Subject": "Prakarya",
+        
+        
+        
+            "IX F"
+        
+        
+            "IX F"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX F",
+        "Assigned_time": 5
+    },
+    {
+        "Subject": "Prakarya",
+        
+        
+        
+            "IX G"
+        
+        
+            "IX G"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX G",
+        "Assigned_time": 0
+    },
+    {
+        "Subject": "Prakarya",
+        
+        
+        
+            "IX H"
+        
+        
+            "IX H"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX H",
+        "Assigned_time": 35
+    },
+    {
+        "Subject": "Prakarya",
+        
+        
+        
+            "IX I"
+        
+        
+            "IX I"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX I",
+        "Assigned_time": 11
+    },
+    {
+        "Subject": "Prakarya",
+        
+        
+        
+            "IX J"
+        
+        
+            "IX J"
+        
+        "Length": "2",
+        "Assigned_classroom": "IX J",
+        "Assigned_time": 37
+    }
+]
