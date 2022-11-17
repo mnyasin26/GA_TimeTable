@@ -1,5 +1,7 @@
 import json
 import random
+# python3 install prettytable
+from prettytable import PrettyTable
 
 # fungsi untuk mengambil data buat gen nantinya, dalam kasus ini gen-nya adalah satu KBM
 def load_data(path):
@@ -123,3 +125,41 @@ def generate_chromosome(data):
 def write_data(data, path):
     with open(path, 'w') as write_file:
         json.dump(data, write_file, indent=4)
+
+def sortByTime(e):
+    return e['Assigned_time']
+
+def print_table(data):
+    len_data = len(data)
+    print("Total Data", len_data)
+    
+    # Manual Printing
+    # print("Column Subject:", data[0]['Subject']);
+    # print("Column Type:", data[0]['Type']);
+    # print("Column Professor:", data[0]['Professor']);
+    # print("Column Group:", data[0]['Group'][0]);
+    # print("Column Classroom:", data[0]['Classroom'][0]);
+    # print("Column Length:", data[0]['Length']);
+    # print("Column Assigned_classroom:", data[0]['Assigned_classroom']);
+    # print("Column Assigned_time:", data[0]['Assigned_time']);
+
+    # Using PrettyTable
+    print("+-----------------------------------------------------------------------------------------------------------+")
+    print("|                                       JADWAL PELAJARAN KELAS VII A                                        |")
+    tab = PrettyTable()    
+    tab.field_names = ["Kelas", "Penempatan Waktu", "Mata Pelajaran", "Guru", "Jumlah Jam"]
+    tab.align["Kelas"]              = "c"
+    tab.align["Penempatan Waktu"]   = "c"
+    tab.align["Mata Pelajaran"]     = "l"
+    tab.align["Guru"]               = "l"
+    tab.align["Jumlah Jam"]         = "c"
+    data.sort(key=sortByTime)
+    
+    # Looping
+    for i in range(len_data):
+        if (data[i]['Assigned_classroom'] == "VII A"):
+            value = [[data[i]['Classroom'][0], data[i]['Assigned_time'], data[i]['Subject'], data[i]['Professor'], data[i]['Length']]]
+            tab.add_rows(value[0:])
+    
+    # Print Table
+    print(tab)
