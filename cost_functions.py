@@ -8,7 +8,7 @@ def cost(chromosome):
     :return: Value of cost
     """
     prof_cost = 0
-    classrooms_cost = 0
+    # ++++ classrooms_cost = 0
     groups_cost = 0
     subjects_cost = 0
 
@@ -33,38 +33,38 @@ def cost(chromosome):
                 prof_cost += 1
 
             # sama tapi buat ruangan
-            if chromosome[2][single_class['Assigned_classroom']][i] > 1:
-                classrooms_cost += 1
+            # ++++ if chromosome[2][single_class['Assigned_classroom']][i] > 1:
+                # classrooms_cost += 1
 
             # sama tapi buat kelas (misal C1)
             for group in single_class['Group']:
-                if chromosome[3][group][i] > 1:
+                if chromosome[2][group][i] > 1:
                     groups_cost += 1
 
     # Traverse all classes for soft constraint regarding preferred order
 
     # mengecek soft constraint dari kromosom dengan memeriksa tiap gen
     # tapi kita kyknya ga make
-    for single_class in chromosome[4]:
-        for lab in chromosome[4][single_class]['L']:
-            for practice in chromosome[4][single_class]['V']:
+    for single_class in chromosome[3]:
+        for lab in chromosome[3][single_class]['L']:
+            for practice in chromosome[3][single_class]['V']:
                 for grupa in lab[1]:
                     # If lab is before practical
                     if grupa in practice[1] and lab[0] < practice[0]:
                         subjects_cost += 0.0025
-            for lecture in chromosome[4][single_class]['P']:
+            for lecture in chromosome[3][single_class]['P']:
                 for grupa in lab[1]:
                     # If lab is before lecture
                     if grupa in lecture[1] and lab[0] < lecture[0]:
                         subjects_cost += 0.0025
-        for practice in chromosome[4][single_class]['V']:
+        for practice in chromosome[3][single_class]['V']:
             for lecture in chromosome[4][single_class]['P']:
                 for grupa in practice[1]:
                     # If practical is before lecture
                     if grupa in lecture[1] and practice[0] < lecture[0]:
                         subjects_cost += 0.0025
 
-    return prof_cost + classrooms_cost + groups_cost + round(subjects_cost, 4)
+    return prof_cost + groups_cost + round(subjects_cost, 4) # ++++ tadinya ada classroom cost
 
 # fungsi untuk menghitung cost dari : idleness kelas (C1) dan guru
 def cost2(chromosome):
@@ -73,6 +73,7 @@ def cost2(chromosome):
     :param chromosome: Timetable for which we are calculating the cost function.
     :return: Value of cost
     """
+    
     groups_empty = 0
     prof_empty = 0
     load_groups = 0
@@ -82,14 +83,14 @@ def cost2(chromosome):
     original_cost = cost(chromosome)
 
     # Calculating idleness and load for groups
-    for group in chromosome[3]:
+    for group in chromosome[2]:
         for day in range(5):
             last_seen = 0
             found = False
             current_load = 0
             for hour in range(8):
                 time = day * 8 + hour
-                if chromosome[3][group][time] >= 1:
+                if chromosome[2][group][time] >= 1:
                     current_load += 1
                     if not found:
                         found = True

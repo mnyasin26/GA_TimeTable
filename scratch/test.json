@@ -1,0 +1,42 @@
+{
+    "VII": {
+        "A":{
+            "Senin":{
+                "7:00 - 7:40":{
+                    "Mapel": "B Indonesia",
+                    "Guru": "Yayat"
+                },
+                "7:40 - 8:20": {
+                    "Mapel": "B Indonesia",
+                    "Guru": "Yayat"
+                },
+                "10:40 - 11:20": {
+                    "Mapel": "B Indonesia",
+                    "Guru": "Yayat"
+                }
+            },
+            "Selasa": {
+                "7:00 - 7:40": {
+                    "Mapel": "B Indonesia",
+                    "Guru": "Yayat"
+                },
+                "7:40 - 8:20": {
+                    "Mapel": "B Indonesia",
+                    "Guru": "Yayat"
+                }
+            }
+        },
+        "B": {
+            "Senin": {
+                "7:00 - 7:40": {
+                    "Mapel": "B Indonesia",
+                    "Guru": "Yayat"
+                },
+                "7:40 - 8:20": {
+                    "Mapel": "B Indonesia",
+                    "Guru": "Yayat"
+                }
+            }
+        }
+    }
+}
