@@ -179,7 +179,6 @@ def evolutionary_algorithm():
     print('Average prof cost is:', total_prof_cost / len(chromosome[1]))
     print('Total prof load is:', total_prof_load)
     print('Free hour:', free_hour, ', 37')
-    dt.print_table(chromosome[0])
 
 
 evolutionary_algorithm()
